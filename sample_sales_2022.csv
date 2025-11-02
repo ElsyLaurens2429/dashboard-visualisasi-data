@@ -1,0 +1,1826 @@
+date,category,before_discount,quantity,payment_method,unique_customers,order_month
+2022-01-01,Mobile & Tablet,2298,11,COD,11,2022-01
+2022-01-01,Home & Living,1150,5,Credit Card,3,2022-01
+2022-01-01,Fashion,1300,5,COD,3,2022-01
+2022-01-01,Electronics,1563,3,E-Wallet,2,2022-01
+2022-01-01,Education,1033,2,Credit Card,1,2022-01
+2022-01-02,Mobile & Tablet,1720,11,Credit Card,10,2022-01
+2022-01-02,Home & Living,1109,7,Credit Card,9,2022-01
+2022-01-02,Fashion,1141,4,E-Wallet,4,2022-01
+2022-01-02,Electronics,1094,5,E-Wallet,5,2022-01
+2022-01-02,Education,1189,3,Jazzwallet,2,2022-01
+2022-01-03,Mobile & Tablet,2467,6,Jazzwallet,7,2022-01
+2022-01-03,Home & Living,803,5,COD,4,2022-01
+2022-01-03,Fashion,2200,5,Jazzwallet,6,2022-01
+2022-01-03,Electronics,1629,11,E-Wallet,13,2022-01
+2022-01-03,Education,1465,4,Credit Card,5,2022-01
+2022-01-04,Mobile & Tablet,2102,6,Credit Card,5,2022-01
+2022-01-04,Home & Living,1034,2,COD,1,2022-01
+2022-01-04,Fashion,1580,6,E-Wallet,4,2022-01
+2022-01-04,Electronics,1409,5,COD,5,2022-01
+2022-01-04,Education,1519,4,COD,4,2022-01
+2022-01-05,Mobile & Tablet,1899,14,Jazzwallet,12,2022-01
+2022-01-05,Home & Living,1619,5,COD,5,2022-01
+2022-01-05,Fashion,1364,4,Jazzwallet,4,2022-01
+2022-01-05,Electronics,593,1,COD,1,2022-01
+2022-01-05,Education,978,2,Jazzwallet,1,2022-01
+2022-01-06,Mobile & Tablet,2199,6,Credit Card,6,2022-01
+2022-01-06,Home & Living,918,2,Credit Card,2,2022-01
+2022-01-06,Fashion,1352,10,E-Wallet,10,2022-01
+2022-01-06,Electronics,1453,5,E-Wallet,5,2022-01
+2022-01-06,Education,1329,5,Credit Card,4,2022-01
+2022-01-07,Mobile & Tablet,2577,11,E-Wallet,13,2022-01
+2022-01-07,Home & Living,1124,3,E-Wallet,2,2022-01
+2022-01-07,Fashion,714,2,Credit Card,1,2022-01
+2022-01-07,Electronics,833,3,COD,2,2022-01
+2022-01-07,Education,960,3,Credit Card,3,2022-01
+2022-01-08,Mobile & Tablet,1691,7,Jazzwallet,5,2022-01
+2022-01-08,Home & Living,1494,3,Credit Card,2,2022-01
+2022-01-08,Fashion,820,4,Credit Card,5,2022-01
+2022-01-08,Electronics,1040,3,E-Wallet,2,2022-01
+2022-01-08,Education,1169,5,Credit Card,4,2022-01
+2022-01-09,Mobile & Tablet,3295,10,Credit Card,8,2022-01
+2022-01-09,Home & Living,1643,4,Credit Card,4,2022-01
+2022-01-09,Fashion,1411,4,COD,3,2022-01
+2022-01-09,Electronics,1988,6,Credit Card,4,2022-01
+2022-01-09,Education,1814,4,Credit Card,3,2022-01
+2022-01-10,Mobile & Tablet,2524,5,Jazzwallet,6,2022-01
+2022-01-10,Home & Living,1354,2,Jazzwallet,1,2022-01
+2022-01-10,Fashion,310,1,Credit Card,1,2022-01
+2022-01-10,Electronics,974,4,Credit Card,4,2022-01
+2022-01-10,Education,1011,10,E-Wallet,12,2022-01
+2022-01-11,Mobile & Tablet,2600,24,Credit Card,26,2022-01
+2022-01-11,Home & Living,1254,4,E-Wallet,4,2022-01
+2022-01-11,Fashion,1422,8,E-Wallet,9,2022-01
+2022-01-11,Electronics,1638,8,COD,5,2022-01
+2022-01-11,Education,1305,2,Credit Card,1,2022-01
+2022-01-12,Mobile & Tablet,1571,5,COD,5,2022-01
+2022-01-12,Home & Living,1464,3,Credit Card,2,2022-01
+2022-01-12,Fashion,856,1,COD,1,2022-01
+2022-01-12,Electronics,1350,2,COD,1,2022-01
+2022-01-12,Education,520,2,E-Wallet,1,2022-01
+2022-01-13,Mobile & Tablet,2166,6,Credit Card,6,2022-01
+2022-01-13,Home & Living,1497,3,Credit Card,2,2022-01
+2022-01-13,Fashion,853,6,COD,4,2022-01
+2022-01-13,Electronics,1551,5,E-Wallet,6,2022-01
+2022-01-13,Education,1119,3,E-Wallet,2,2022-01
+2022-01-14,Mobile & Tablet,2428,6,E-Wallet,7,2022-01
+2022-01-14,Home & Living,1037,3,Credit Card,2,2022-01
+2022-01-14,Fashion,1479,3,Credit Card,3,2022-01
+2022-01-14,Electronics,1428,5,Jazzwallet,5,2022-01
+2022-01-14,Education,811,1,Credit Card,1,2022-01
+2022-01-15,Mobile & Tablet,2251,16,Credit Card,18,2022-01
+2022-01-15,Home & Living,937,2,Credit Card,2,2022-01
+2022-01-15,Fashion,774,2,COD,2,2022-01
+2022-01-15,Electronics,1378,2,Credit Card,1,2022-01
+2022-01-15,Education,1259,2,Credit Card,1,2022-01
+2022-01-16,Mobile & Tablet,1486,5,Credit Card,5,2022-01
+2022-01-16,Home & Living,1030,5,Credit Card,5,2022-01
+2022-01-16,Fashion,1592,7,COD,5,2022-01
+2022-01-16,Electronics,1216,8,COD,6,2022-01
+2022-01-16,Education,965,3,E-Wallet,3,2022-01
+2022-01-17,Mobile & Tablet,2628,6,Credit Card,6,2022-01
+2022-01-17,Home & Living,973,2,Jazzwallet,2,2022-01
+2022-01-17,Fashion,1381,6,Credit Card,4,2022-01
+2022-01-17,Electronics,1511,3,Credit Card,2,2022-01
+2022-01-17,Education,1297,4,Credit Card,4,2022-01
+2022-01-18,Mobile & Tablet,3346,9,Jazzwallet,9,2022-01
+2022-01-18,Home & Living,955,6,Jazzwallet,7,2022-01
+2022-01-18,Fashion,1105,3,Jazzwallet,3,2022-01
+2022-01-18,Electronics,1002,2,Credit Card,1,2022-01
+2022-01-18,Education,1594,14,E-Wallet,17,2022-01
+2022-01-19,Mobile & Tablet,2001,4,COD,4,2022-01
+2022-01-19,Home & Living,1472,3,COD,2,2022-01
+2022-01-19,Fashion,1432,5,COD,5,2022-01
+2022-01-19,Electronics,1245,9,Credit Card,9,2022-01
+2022-01-19,Education,1145,4,E-Wallet,3,2022-01
+2022-01-20,Mobile & Tablet,2352,4,Credit Card,3,2022-01
+2022-01-20,Home & Living,1239,3,Jazzwallet,2,2022-01
+2022-01-20,Fashion,1045,5,Credit Card,4,2022-01
+2022-01-20,Electronics,1902,8,COD,9,2022-01
+2022-01-20,Education,1185,3,E-Wallet,2,2022-01
+2022-01-21,Mobile & Tablet,2331,8,Credit Card,9,2022-01
+2022-01-21,Home & Living,944,6,Credit Card,6,2022-01
+2022-01-21,Fashion,1396,10,Credit Card,11,2022-01
+2022-01-21,Electronics,1127,2,COD,1,2022-01
+2022-01-21,Education,1204,2,Credit Card,1,2022-01
+2022-01-22,Mobile & Tablet,2558,21,Credit Card,14,2022-01
+2022-01-22,Home & Living,1316,2,Credit Card,1,2022-01
+2022-01-22,Fashion,1153,4,Credit Card,3,2022-01
+2022-01-22,Electronics,1633,10,COD,11,2022-01
+2022-01-22,Education,769,3,E-Wallet,3,2022-01
+2022-01-23,Mobile & Tablet,2194,5,Jazzwallet,3,2022-01
+2022-01-23,Home & Living,1803,10,E-Wallet,12,2022-01
+2022-01-23,Fashion,1106,4,Jazzwallet,4,2022-01
+2022-01-23,Electronics,1626,7,Jazzwallet,7,2022-01
+2022-01-23,Education,1360,2,Credit Card,2,2022-01
+2022-01-24,Mobile & Tablet,1122,2,E-Wallet,2,2022-01
+2022-01-24,Home & Living,941,2,Credit Card,1,2022-01
+2022-01-24,Fashion,1123,2,Credit Card,1,2022-01
+2022-01-24,Electronics,993,4,Jazzwallet,3,2022-01
+2022-01-24,Education,662,1,E-Wallet,1,2022-01
+2022-01-25,Mobile & Tablet,1337,4,Credit Card,2,2022-01
+2022-01-25,Home & Living,1474,6,E-Wallet,4,2022-01
+2022-01-25,Fashion,1225,4,E-Wallet,3,2022-01
+2022-01-25,Electronics,1554,6,E-Wallet,6,2022-01
+2022-01-25,Education,1722,17,COD,17,2022-01
+2022-01-26,Mobile & Tablet,2575,10,COD,12,2022-01
+2022-01-26,Home & Living,884,1,Credit Card,1,2022-01
+2022-01-26,Fashion,1115,5,Credit Card,4,2022-01
+2022-01-26,Electronics,912,2,E-Wallet,2,2022-01
+2022-01-26,Education,718,2,Credit Card,1,2022-01
+2022-01-27,Mobile & Tablet,1091,2,E-Wallet,2,2022-01
+2022-01-27,Home & Living,1444,7,Credit Card,7,2022-01
+2022-01-27,Fashion,1251,12,Jazzwallet,11,2022-01
+2022-01-27,Electronics,1573,9,Credit Card,11,2022-01
+2022-01-27,Education,1694,5,E-Wallet,6,2022-01
+2022-01-28,Mobile & Tablet,1593,8,Jazzwallet,6,2022-01
+2022-01-28,Home & Living,1323,5,E-Wallet,5,2022-01
+2022-01-28,Fashion,1888,12,E-Wallet,14,2022-01
+2022-01-28,Electronics,1087,2,Credit Card,1,2022-01
+2022-01-28,Education,624,1,Credit Card,1,2022-01
+2022-01-29,Mobile & Tablet,1079,6,Jazzwallet,5,2022-01
+2022-01-29,Home & Living,1659,7,E-Wallet,6,2022-01
+2022-01-29,Fashion,997,3,COD,3,2022-01
+2022-01-29,Electronics,2114,12,Credit Card,9,2022-01
+2022-01-29,Education,576,1,Jazzwallet,1,2022-01
+2022-01-30,Mobile & Tablet,2866,8,Credit Card,9,2022-01
+2022-01-30,Home & Living,1786,11,COD,12,2022-01
+2022-01-30,Fashion,703,2,E-Wallet,1,2022-01
+2022-01-30,Electronics,1098,8,COD,7,2022-01
+2022-01-30,Education,600,2,COD,1,2022-01
+2022-01-31,Mobile & Tablet,2219,4,COD,3,2022-01
+2022-01-31,Home & Living,861,1,Credit Card,1,2022-01
+2022-01-31,Fashion,1039,2,Credit Card,1,2022-01
+2022-01-31,Electronics,1028,2,Jazzwallet,2,2022-01
+2022-01-31,Education,427,2,Credit Card,2,2022-01
+2022-02-01,Mobile & Tablet,2307,5,Credit Card,3,2022-02
+2022-02-01,Home & Living,1907,12,E-Wallet,15,2022-02
+2022-02-01,Fashion,1129,7,Jazzwallet,8,2022-02
+2022-02-01,Electronics,1265,4,Credit Card,3,2022-02
+2022-02-01,Education,920,2,Credit Card,2,2022-02
+2022-02-02,Mobile & Tablet,3068,12,Jazzwallet,10,2022-02
+2022-02-02,Home & Living,1290,12,COD,14,2022-02
+2022-02-02,Fashion,1071,2,Credit Card,1,2022-02
+2022-02-02,Electronics,1524,12,Jazzwallet,10,2022-02
+2022-02-02,Education,967,2,Credit Card,1,2022-02
+2022-02-03,Mobile & Tablet,1351,10,COD,11,2022-02
+2022-02-03,Home & Living,885,4,COD,4,2022-02
+2022-02-03,Fashion,1198,2,Credit Card,1,2022-02
+2022-02-03,Electronics,1456,3,Credit Card,2,2022-02
+2022-02-03,Education,1095,2,Credit Card,2,2022-02
+2022-02-04,Mobile & Tablet,1876,4,Credit Card,3,2022-02
+2022-02-04,Home & Living,379,1,Jazzwallet,1,2022-02
+2022-02-04,Fashion,1262,7,E-Wallet,8,2022-02
+2022-02-04,Electronics,1526,3,Credit Card,3,2022-02
+2022-02-04,Education,1403,4,Credit Card,3,2022-02
+2022-02-05,Mobile & Tablet,2499,6,Credit Card,7,2022-02
+2022-02-05,Home & Living,872,7,Credit Card,5,2022-02
+2022-02-05,Fashion,1429,7,COD,5,2022-02
+2022-02-05,Electronics,1475,3,Credit Card,2,2022-02
+2022-02-05,Education,1203,4,Credit Card,4,2022-02
+2022-02-06,Mobile & Tablet,1159,4,E-Wallet,3,2022-02
+2022-02-06,Home & Living,1282,6,Jazzwallet,4,2022-02
+2022-02-06,Fashion,2060,10,Jazzwallet,12,2022-02
+2022-02-06,Electronics,982,2,Credit Card,2,2022-02
+2022-02-06,Education,1440,3,Credit Card,3,2022-02
+2022-02-07,Mobile & Tablet,1886,4,E-Wallet,4,2022-02
+2022-02-07,Home & Living,1385,5,E-Wallet,5,2022-02
+2022-02-07,Fashion,1371,8,Credit Card,9,2022-02
+2022-02-07,Electronics,1632,4,COD,4,2022-02
+2022-02-07,Education,1053,4,Credit Card,4,2022-02
+2022-02-08,Mobile & Tablet,1051,3,Credit Card,3,2022-02
+2022-02-08,Home & Living,1205,2,E-Wallet,2,2022-02
+2022-02-08,Fashion,667,5,E-Wallet,4,2022-02
+2022-02-08,Electronics,1611,4,Credit Card,5,2022-02
+2022-02-08,Education,1498,3,Jazzwallet,3,2022-02
+2022-02-09,Mobile & Tablet,2605,23,Credit Card,26,2022-02
+2022-02-09,Home & Living,1231,3,E-Wallet,2,2022-02
+2022-02-09,Fashion,858,3,Credit Card,3,2022-02
+2022-02-09,Electronics,273,1,COD,1,2022-02
+2022-02-09,Education,1061,3,Credit Card,3,2022-02
+2022-02-10,Mobile & Tablet,2709,7,E-Wallet,7,2022-02
+2022-02-10,Home & Living,1328,4,Credit Card,3,2022-02
+2022-02-10,Fashion,1474,7,Credit Card,7,2022-02
+2022-02-10,Electronics,1276,6,COD,6,2022-02
+2022-02-10,Education,1633,4,COD,3,2022-02
+2022-02-11,Mobile & Tablet,2403,18,Jazzwallet,21,2022-02
+2022-02-11,Home & Living,974,3,E-Wallet,2,2022-02
+2022-02-11,Fashion,1021,6,Credit Card,6,2022-02
+2022-02-11,Electronics,1702,5,E-Wallet,3,2022-02
+2022-02-11,Education,951,2,Credit Card,2,2022-02
+2022-02-12,Mobile & Tablet,1862,6,Credit Card,7,2022-02
+2022-02-12,Home & Living,1426,6,Credit Card,5,2022-02
+2022-02-12,Fashion,1111,3,Credit Card,3,2022-02
+2022-02-12,Electronics,1101,3,COD,2,2022-02
+2022-02-12,Education,957,6,Credit Card,7,2022-02
+2022-02-13,Mobile & Tablet,1606,5,Credit Card,6,2022-02
+2022-02-13,Home & Living,717,1,Credit Card,1,2022-02
+2022-02-13,Fashion,1253,3,Credit Card,3,2022-02
+2022-02-13,Electronics,1038,2,Jazzwallet,1,2022-02
+2022-02-13,Education,435,3,Jazzwallet,3,2022-02
+2022-02-14,Mobile & Tablet,2833,13,Credit Card,13,2022-02
+2022-02-14,Home & Living,242,0,Jazzwallet,1,2022-02
+2022-02-14,Fashion,1239,3,Credit Card,3,2022-02
+2022-02-14,Electronics,1133,2,E-Wallet,2,2022-02
+2022-02-14,Education,1639,3,Credit Card,3,2022-02
+2022-02-15,Mobile & Tablet,695,1,Jazzwallet,1,2022-02
+2022-02-15,Home & Living,1380,3,Jazzwallet,2,2022-02
+2022-02-15,Fashion,820,4,COD,4,2022-02
+2022-02-15,Electronics,1100,2,E-Wallet,1,2022-02
+2022-02-15,Education,819,2,COD,2,2022-02
+2022-02-16,Mobile & Tablet,2820,5,E-Wallet,4,2022-02
+2022-02-16,Home & Living,1544,4,E-Wallet,3,2022-02
+2022-02-16,Fashion,1626,3,Credit Card,2,2022-02
+2022-02-16,Electronics,958,2,COD,1,2022-02
+2022-02-16,Education,1302,4,COD,3,2022-02
+2022-02-17,Mobile & Tablet,2023,9,Credit Card,10,2022-02
+2022-02-17,Home & Living,914,3,Jazzwallet,3,2022-02
+2022-02-17,Fashion,1783,17,Jazzwallet,21,2022-02
+2022-02-17,Electronics,1597,3,E-Wallet,2,2022-02
+2022-02-17,Education,1614,3,Credit Card,2,2022-02
+2022-02-18,Mobile & Tablet,1958,11,Credit Card,7,2022-02
+2022-02-18,Home & Living,271,2,E-Wallet,2,2022-02
+2022-02-18,Fashion,1783,4,Credit Card,4,2022-02
+2022-02-18,Electronics,1765,6,Credit Card,4,2022-02
+2022-02-18,Education,1386,3,Jazzwallet,3,2022-02
+2022-02-19,Mobile & Tablet,1564,12,Credit Card,10,2022-02
+2022-02-19,Home & Living,1682,4,COD,5,2022-02
+2022-02-19,Fashion,881,5,COD,6,2022-02
+2022-02-19,Electronics,890,6,Credit Card,4,2022-02
+2022-02-19,Education,1452,4,Jazzwallet,3,2022-02
+2022-02-20,Mobile & Tablet,986,3,Credit Card,2,2022-02
+2022-02-20,Home & Living,1555,3,COD,2,2022-02
+2022-02-20,Fashion,974,7,Jazzwallet,5,2022-02
+2022-02-20,Electronics,1852,8,COD,6,2022-02
+2022-02-20,Education,565,3,E-Wallet,3,2022-02
+2022-02-21,Mobile & Tablet,2686,23,E-Wallet,22,2022-02
+2022-02-21,Home & Living,1263,4,COD,4,2022-02
+2022-02-21,Fashion,719,3,COD,3,2022-02
+2022-02-21,Electronics,1036,5,COD,5,2022-02
+2022-02-21,Education,1427,3,COD,2,2022-02
+2022-02-22,Mobile & Tablet,1249,2,Jazzwallet,2,2022-02
+2022-02-22,Home & Living,2138,9,Credit Card,6,2022-02
+2022-02-22,Fashion,1688,5,E-Wallet,6,2022-02
+2022-02-22,Electronics,1070,5,Jazzwallet,5,2022-02
+2022-02-22,Education,1043,5,E-Wallet,5,2022-02
+2022-02-23,Mobile & Tablet,1814,6,Credit Card,6,2022-02
+2022-02-23,Home & Living,1263,2,COD,2,2022-02
+2022-02-23,Fashion,1699,8,Credit Card,5,2022-02
+2022-02-23,Electronics,1229,6,COD,7,2022-02
+2022-02-23,Education,1583,12,COD,11,2022-02
+2022-02-24,Mobile & Tablet,3379,10,E-Wallet,11,2022-02
+2022-02-24,Home & Living,1069,2,Credit Card,2,2022-02
+2022-02-24,Fashion,1196,2,Credit Card,1,2022-02
+2022-02-24,Electronics,1151,2,Jazzwallet,1,2022-02
+2022-02-24,Education,1187,2,Credit Card,1,2022-02
+2022-02-25,Mobile & Tablet,2140,7,E-Wallet,8,2022-02
+2022-02-25,Home & Living,1140,2,E-Wallet,1,2022-02
+2022-02-25,Fashion,902,2,E-Wallet,2,2022-02
+2022-02-25,Electronics,1146,2,COD,2,2022-02
+2022-02-25,Education,962,2,Credit Card,1,2022-02
+2022-02-26,Mobile & Tablet,1626,4,E-Wallet,4,2022-02
+2022-02-26,Home & Living,1000,6,E-Wallet,7,2022-02
+2022-02-26,Fashion,1065,3,Credit Card,3,2022-02
+2022-02-26,Electronics,777,7,E-Wallet,5,2022-02
+2022-02-26,Education,1273,2,E-Wallet,2,2022-02
+2022-02-27,Mobile & Tablet,1090,2,E-Wallet,1,2022-02
+2022-02-27,Home & Living,1395,3,COD,2,2022-02
+2022-02-27,Fashion,1590,7,Credit Card,5,2022-02
+2022-02-27,Electronics,1188,8,Credit Card,8,2022-02
+2022-02-27,Education,1846,10,Jazzwallet,12,2022-02
+2022-02-28,Mobile & Tablet,2544,6,Credit Card,6,2022-02
+2022-02-28,Home & Living,1212,2,E-Wallet,2,2022-02
+2022-02-28,Fashion,1596,8,E-Wallet,9,2022-02
+2022-02-28,Electronics,1222,4,Credit Card,3,2022-02
+2022-02-28,Education,865,3,E-Wallet,3,2022-02
+2022-03-01,Mobile & Tablet,2356,18,E-Wallet,13,2022-03
+2022-03-01,Home & Living,1634,9,E-Wallet,10,2022-03
+2022-03-01,Fashion,905,8,Jazzwallet,6,2022-03
+2022-03-01,Electronics,1268,10,Jazzwallet,9,2022-03
+2022-03-01,Education,1216,2,E-Wallet,1,2022-03
+2022-03-02,Mobile & Tablet,2711,17,Credit Card,19,2022-03
+2022-03-02,Home & Living,1114,2,E-Wallet,2,2022-03
+2022-03-02,Fashion,1132,9,COD,10,2022-03
+2022-03-02,Electronics,1054,2,Credit Card,2,2022-03
+2022-03-02,Education,998,2,Credit Card,1,2022-03
+2022-03-03,Mobile & Tablet,2226,16,Credit Card,15,2022-03
+2022-03-03,Home & Living,1463,11,Credit Card,10,2022-03
+2022-03-03,Fashion,1588,15,Credit Card,14,2022-03
+2022-03-03,Electronics,1358,5,Credit Card,6,2022-03
+2022-03-03,Education,1019,3,COD,3,2022-03
+2022-03-04,Mobile & Tablet,1866,15,E-Wallet,18,2022-03
+2022-03-04,Home & Living,787,4,Credit Card,3,2022-03
+2022-03-04,Fashion,1183,2,COD,2,2022-03
+2022-03-04,Electronics,1287,4,Jazzwallet,4,2022-03
+2022-03-04,Education,1542,5,Credit Card,3,2022-03
+2022-03-05,Mobile & Tablet,1794,7,Jazzwallet,5,2022-03
+2022-03-05,Home & Living,1785,5,COD,3,2022-03
+2022-03-05,Fashion,306,1,E-Wallet,1,2022-03
+2022-03-05,Electronics,1141,3,Jazzwallet,2,2022-03
+2022-03-05,Education,717,2,Credit Card,2,2022-03
+2022-03-06,Mobile & Tablet,1655,5,Credit Card,4,2022-03
+2022-03-06,Home & Living,1032,2,Credit Card,2,2022-03
+2022-03-06,Fashion,1157,2,Credit Card,2,2022-03
+2022-03-06,Electronics,775,2,Credit Card,2,2022-03
+2022-03-06,Education,1333,2,COD,2,2022-03
+2022-03-07,Mobile & Tablet,2287,16,Credit Card,20,2022-03
+2022-03-07,Home & Living,1198,6,Credit Card,5,2022-03
+2022-03-07,Fashion,782,2,Credit Card,2,2022-03
+2022-03-07,Electronics,1111,6,Jazzwallet,5,2022-03
+2022-03-07,Education,954,3,E-Wallet,2,2022-03
+2022-03-08,Mobile & Tablet,2551,12,Credit Card,9,2022-03
+2022-03-08,Home & Living,1398,3,COD,2,2022-03
+2022-03-08,Fashion,1852,5,E-Wallet,5,2022-03
+2022-03-08,Electronics,1328,7,Credit Card,8,2022-03
+2022-03-08,Education,1674,3,COD,3,2022-03
+2022-03-09,Mobile & Tablet,2118,4,Credit Card,4,2022-03
+2022-03-09,Home & Living,1823,14,E-Wallet,11,2022-03
+2022-03-09,Fashion,1587,10,Credit Card,11,2022-03
+2022-03-09,Electronics,1133,2,Credit Card,2,2022-03
+2022-03-09,Education,1575,5,Credit Card,6,2022-03
+2022-03-10,Mobile & Tablet,2022,6,Credit Card,4,2022-03
+2022-03-10,Home & Living,1243,4,Credit Card,3,2022-03
+2022-03-10,Fashion,1343,10,Credit Card,9,2022-03
+2022-03-10,Electronics,1432,3,COD,3,2022-03
+2022-03-10,Education,1542,7,Credit Card,7,2022-03
+2022-03-11,Mobile & Tablet,3767,11,E-Wallet,13,2022-03
+2022-03-11,Home & Living,612,1,Credit Card,1,2022-03
+2022-03-11,Fashion,993,4,COD,4,2022-03
+2022-03-11,Electronics,974,9,Credit Card,9,2022-03
+2022-03-11,Education,1342,3,Credit Card,3,2022-03
+2022-03-12,Mobile & Tablet,2194,15,Credit Card,18,2022-03
+2022-03-12,Home & Living,1095,5,Credit Card,5,2022-03
+2022-03-12,Fashion,953,3,Credit Card,3,2022-03
+2022-03-12,Electronics,1299,7,E-Wallet,4,2022-03
+2022-03-12,Education,1818,6,E-Wallet,5,2022-03
+2022-03-13,Mobile & Tablet,2922,5,E-Wallet,4,2022-03
+2022-03-13,Home & Living,987,2,E-Wallet,1,2022-03
+2022-03-13,Fashion,497,1,Credit Card,1,2022-03
+2022-03-13,Electronics,932,2,Jazzwallet,2,2022-03
+2022-03-13,Education,730,2,Credit Card,2,2022-03
+2022-03-14,Mobile & Tablet,2217,7,Credit Card,7,2022-03
+2022-03-14,Home & Living,1667,3,E-Wallet,2,2022-03
+2022-03-14,Fashion,754,2,Jazzwallet,1,2022-03
+2022-03-14,Electronics,1426,5,Jazzwallet,3,2022-03
+2022-03-14,Education,1529,4,Credit Card,4,2022-03
+2022-03-15,Mobile & Tablet,2207,5,Jazzwallet,3,2022-03
+2022-03-15,Home & Living,1598,4,COD,3,2022-03
+2022-03-15,Fashion,825,1,Jazzwallet,1,2022-03
+2022-03-15,Electronics,1586,8,Credit Card,8,2022-03
+2022-03-15,Education,1140,5,E-Wallet,5,2022-03
+2022-03-16,Mobile & Tablet,3442,14,E-Wallet,16,2022-03
+2022-03-16,Home & Living,1179,2,COD,2,2022-03
+2022-03-16,Fashion,1422,5,Credit Card,5,2022-03
+2022-03-16,Electronics,1250,6,Credit Card,4,2022-03
+2022-03-16,Education,619,2,Credit Card,2,2022-03
+2022-03-17,Mobile & Tablet,2558,14,Jazzwallet,12,2022-03
+2022-03-17,Home & Living,1308,6,Credit Card,6,2022-03
+2022-03-17,Fashion,917,5,E-Wallet,4,2022-03
+2022-03-17,Electronics,1084,2,COD,1,2022-03
+2022-03-17,Education,1541,9,Credit Card,8,2022-03
+2022-03-18,Mobile & Tablet,1468,3,Credit Card,2,2022-03
+2022-03-18,Home & Living,1758,8,Jazzwallet,8,2022-03
+2022-03-18,Fashion,1592,4,Credit Card,4,2022-03
+2022-03-18,Electronics,1752,4,E-Wallet,4,2022-03
+2022-03-18,Education,1232,3,Credit Card,2,2022-03
+2022-03-19,Mobile & Tablet,1291,2,E-Wallet,2,2022-03
+2022-03-19,Home & Living,1473,3,COD,2,2022-03
+2022-03-19,Fashion,1301,3,E-Wallet,2,2022-03
+2022-03-19,Electronics,1187,2,Credit Card,1,2022-03
+2022-03-19,Education,857,2,Credit Card,2,2022-03
+2022-03-20,Mobile & Tablet,2152,21,Credit Card,19,2022-03
+2022-03-20,Home & Living,1027,2,Credit Card,1,2022-03
+2022-03-20,Fashion,1318,5,COD,3,2022-03
+2022-03-20,Electronics,1342,3,E-Wallet,2,2022-03
+2022-03-20,Education,1371,9,E-Wallet,9,2022-03
+2022-03-21,Mobile & Tablet,633,2,Credit Card,2,2022-03
+2022-03-21,Home & Living,1408,2,Credit Card,2,2022-03
+2022-03-21,Fashion,1617,6,Credit Card,5,2022-03
+2022-03-21,Electronics,941,7,E-Wallet,7,2022-03
+2022-03-21,Education,1522,3,Jazzwallet,3,2022-03
+2022-03-22,Mobile & Tablet,3333,12,Credit Card,14,2022-03
+2022-03-22,Home & Living,754,2,Credit Card,1,2022-03
+2022-03-22,Fashion,1215,4,COD,3,2022-03
+2022-03-22,Electronics,1147,6,Credit Card,5,2022-03
+2022-03-22,Education,910,1,Credit Card,1,2022-03
+2022-03-23,Mobile & Tablet,2983,7,Jazzwallet,5,2022-03
+2022-03-23,Home & Living,1404,5,COD,4,2022-03
+2022-03-23,Fashion,1786,5,E-Wallet,4,2022-03
+2022-03-23,Electronics,803,2,Credit Card,2,2022-03
+2022-03-23,Education,943,9,Jazzwallet,9,2022-03
+2022-03-24,Mobile & Tablet,2378,14,Credit Card,12,2022-03
+2022-03-24,Home & Living,639,1,Credit Card,1,2022-03
+2022-03-24,Fashion,660,1,COD,1,2022-03
+2022-03-24,Electronics,721,1,Credit Card,1,2022-03
+2022-03-24,Education,1239,3,Credit Card,3,2022-03
+2022-03-25,Mobile & Tablet,2226,8,Credit Card,9,2022-03
+2022-03-25,Home & Living,1673,16,E-Wallet,13,2022-03
+2022-03-25,Fashion,762,1,E-Wallet,1,2022-03
+2022-03-25,Electronics,1511,3,E-Wallet,3,2022-03
+2022-03-25,Education,1475,4,E-Wallet,4,2022-03
+2022-03-26,Mobile & Tablet,1257,5,Jazzwallet,4,2022-03
+2022-03-26,Home & Living,1208,3,Credit Card,2,2022-03
+2022-03-26,Fashion,1231,2,E-Wallet,1,2022-03
+2022-03-26,Electronics,1454,5,COD,5,2022-03
+2022-03-26,Education,1197,2,Credit Card,1,2022-03
+2022-03-27,Mobile & Tablet,2503,22,E-Wallet,16,2022-03
+2022-03-27,Home & Living,1042,3,Credit Card,3,2022-03
+2022-03-27,Fashion,1619,9,COD,7,2022-03
+2022-03-27,Electronics,1137,6,Credit Card,5,2022-03
+2022-03-27,Education,927,3,E-Wallet,3,2022-03
+2022-03-28,Mobile & Tablet,1864,4,Credit Card,4,2022-03
+2022-03-28,Home & Living,1271,3,COD,3,2022-03
+2022-03-28,Fashion,1203,2,Jazzwallet,1,2022-03
+2022-03-28,Electronics,727,1,Credit Card,1,2022-03
+2022-03-28,Education,1161,10,E-Wallet,9,2022-03
+2022-03-29,Mobile & Tablet,1958,8,E-Wallet,9,2022-03
+2022-03-29,Home & Living,1461,5,Credit Card,5,2022-03
+2022-03-29,Fashion,1034,6,Credit Card,5,2022-03
+2022-03-29,Electronics,720,1,Jazzwallet,1,2022-03
+2022-03-29,Education,1300,3,COD,2,2022-03
+2022-03-30,Mobile & Tablet,1261,5,Jazzwallet,4,2022-03
+2022-03-30,Home & Living,1106,2,Credit Card,2,2022-03
+2022-03-30,Fashion,1747,12,E-Wallet,12,2022-03
+2022-03-30,Electronics,1685,4,Credit Card,4,2022-03
+2022-03-30,Education,1369,6,Credit Card,6,2022-03
+2022-03-31,Mobile & Tablet,2438,23,Credit Card,22,2022-03
+2022-03-31,Home & Living,1053,4,Jazzwallet,3,2022-03
+2022-03-31,Fashion,781,2,Credit Card,2,2022-03
+2022-03-31,Electronics,1829,3,Credit Card,2,2022-03
+2022-03-31,Education,1485,4,E-Wallet,4,2022-03
+2022-04-01,Mobile & Tablet,1926,6,COD,5,2022-04
+2022-04-01,Home & Living,1043,2,Jazzwallet,1,2022-04
+2022-04-01,Fashion,1040,2,COD,2,2022-04
+2022-04-01,Electronics,881,2,Credit Card,1,2022-04
+2022-04-01,Education,1302,6,Jazzwallet,6,2022-04
+2022-04-02,Mobile & Tablet,2124,9,E-Wallet,6,2022-04
+2022-04-02,Home & Living,1317,3,Credit Card,3,2022-04
+2022-04-02,Fashion,1139,2,Credit Card,1,2022-04
+2022-04-02,Electronics,1331,3,Credit Card,2,2022-04
+2022-04-02,Education,1107,5,COD,3,2022-04
+2022-04-03,Mobile & Tablet,2142,10,E-Wallet,7,2022-04
+2022-04-03,Home & Living,1036,8,E-Wallet,9,2022-04
+2022-04-03,Fashion,715,3,E-Wallet,3,2022-04
+2022-04-03,Electronics,850,6,Credit Card,5,2022-04
+2022-04-03,Education,1651,15,Credit Card,10,2022-04
+2022-04-04,Mobile & Tablet,2113,4,E-Wallet,3,2022-04
+2022-04-04,Home & Living,1418,9,Credit Card,7,2022-04
+2022-04-04,Fashion,1672,8,COD,8,2022-04
+2022-04-04,Electronics,968,2,COD,2,2022-04
+2022-04-04,Education,1534,3,Credit Card,3,2022-04
+2022-04-05,Mobile & Tablet,2137,8,Credit Card,8,2022-04
+2022-04-05,Home & Living,873,4,E-Wallet,3,2022-04
+2022-04-05,Fashion,1120,4,Jazzwallet,5,2022-04
+2022-04-05,Electronics,1100,4,E-Wallet,4,2022-04
+2022-04-05,Education,1501,6,E-Wallet,6,2022-04
+2022-04-06,Mobile & Tablet,1511,4,COD,4,2022-04
+2022-04-06,Home & Living,1265,3,Credit Card,3,2022-04
+2022-04-06,Fashion,733,1,Credit Card,1,2022-04
+2022-04-06,Electronics,1492,7,Credit Card,5,2022-04
+2022-04-06,Education,1408,9,COD,9,2022-04
+2022-04-07,Mobile & Tablet,2144,7,Jazzwallet,5,2022-04
+2022-04-07,Home & Living,2136,16,E-Wallet,17,2022-04
+2022-04-07,Fashion,975,2,Credit Card,2,2022-04
+2022-04-07,Electronics,1372,2,COD,2,2022-04
+2022-04-07,Education,1124,2,COD,1,2022-04
+2022-04-08,Mobile & Tablet,1489,3,E-Wallet,3,2022-04
+2022-04-08,Home & Living,844,1,Credit Card,1,2022-04
+2022-04-08,Fashion,1735,9,E-Wallet,10,2022-04
+2022-04-08,Electronics,1478,2,Jazzwallet,1,2022-04
+2022-04-08,Education,1603,3,Credit Card,2,2022-04
+2022-04-09,Mobile & Tablet,2938,5,E-Wallet,5,2022-04
+2022-04-09,Home & Living,749,1,COD,1,2022-04
+2022-04-09,Fashion,1058,8,Credit Card,9,2022-04
+2022-04-09,Electronics,1051,3,COD,2,2022-04
+2022-04-09,Education,1755,3,Jazzwallet,2,2022-04
+2022-04-10,Mobile & Tablet,3203,12,E-Wallet,10,2022-04
+2022-04-10,Home & Living,1197,2,Jazzwallet,2,2022-04
+2022-04-10,Fashion,1672,9,COD,10,2022-04
+2022-04-10,Electronics,1231,4,Jazzwallet,3,2022-04
+2022-04-10,Education,1731,6,Credit Card,5,2022-04
+2022-04-11,Mobile & Tablet,2463,11,COD,10,2022-04
+2022-04-11,Home & Living,1517,4,Credit Card,3,2022-04
+2022-04-11,Fashion,1506,7,Credit Card,5,2022-04
+2022-04-11,Electronics,1515,9,E-Wallet,7,2022-04
+2022-04-11,Education,1458,6,Credit Card,6,2022-04
+2022-04-12,Mobile & Tablet,3005,6,COD,4,2022-04
+2022-04-12,Home & Living,1051,6,E-Wallet,4,2022-04
+2022-04-12,Fashion,1390,9,Credit Card,11,2022-04
+2022-04-12,Electronics,1527,6,COD,5,2022-04
+2022-04-12,Education,1714,7,COD,4,2022-04
+2022-04-13,Mobile & Tablet,1835,10,COD,12,2022-04
+2022-04-13,Home & Living,840,1,Jazzwallet,1,2022-04
+2022-04-13,Fashion,856,2,Credit Card,1,2022-04
+2022-04-13,Electronics,856,3,Credit Card,3,2022-04
+2022-04-13,Education,941,2,Jazzwallet,1,2022-04
+2022-04-14,Mobile & Tablet,1709,4,Credit Card,3,2022-04
+2022-04-14,Home & Living,1585,9,E-Wallet,6,2022-04
+2022-04-14,Fashion,937,2,Credit Card,1,2022-04
+2022-04-14,Electronics,1106,4,Credit Card,3,2022-04
+2022-04-14,Education,1533,3,Credit Card,3,2022-04
+2022-04-15,Mobile & Tablet,2267,5,Credit Card,6,2022-04
+2022-04-15,Home & Living,946,1,E-Wallet,1,2022-04
+2022-04-15,Fashion,903,4,Credit Card,4,2022-04
+2022-04-15,Electronics,1140,7,Credit Card,6,2022-04
+2022-04-15,Education,1717,6,Credit Card,4,2022-04
+2022-04-16,Mobile & Tablet,2125,7,E-Wallet,6,2022-04
+2022-04-16,Home & Living,1345,8,COD,7,2022-04
+2022-04-16,Fashion,881,1,Credit Card,1,2022-04
+2022-04-16,Electronics,1540,3,E-Wallet,2,2022-04
+2022-04-16,Education,951,3,COD,2,2022-04
+2022-04-17,Mobile & Tablet,2505,9,Credit Card,10,2022-04
+2022-04-17,Home & Living,1069,3,Jazzwallet,2,2022-04
+2022-04-17,Fashion,849,2,Credit Card,1,2022-04
+2022-04-17,Electronics,1365,8,COD,8,2022-04
+2022-04-17,Education,880,1,E-Wallet,1,2022-04
+2022-04-18,Mobile & Tablet,2068,6,Jazzwallet,6,2022-04
+2022-04-18,Home & Living,1046,3,E-Wallet,2,2022-04
+2022-04-18,Fashion,1613,9,Jazzwallet,8,2022-04
+2022-04-18,Electronics,907,5,COD,4,2022-04
+2022-04-18,Education,1536,4,Credit Card,3,2022-04
+2022-04-19,Mobile & Tablet,2589,7,COD,6,2022-04
+2022-04-19,Home & Living,1436,3,Credit Card,3,2022-04
+2022-04-19,Fashion,1079,10,E-Wallet,10,2022-04
+2022-04-19,Electronics,1054,5,Credit Card,5,2022-04
+2022-04-19,Education,1322,2,E-Wallet,1,2022-04
+2022-04-20,Mobile & Tablet,1674,3,Jazzwallet,3,2022-04
+2022-04-20,Home & Living,1340,5,Credit Card,5,2022-04
+2022-04-20,Fashion,921,3,Jazzwallet,3,2022-04
+2022-04-20,Electronics,1321,2,E-Wallet,1,2022-04
+2022-04-20,Education,1093,6,Credit Card,5,2022-04
+2022-04-21,Mobile & Tablet,1900,6,Credit Card,7,2022-04
+2022-04-21,Home & Living,1670,9,Credit Card,7,2022-04
+2022-04-21,Fashion,1502,5,COD,4,2022-04
+2022-04-21,Electronics,1396,10,Credit Card,9,2022-04
+2022-04-21,Education,1474,5,Credit Card,5,2022-04
+2022-04-22,Mobile & Tablet,2754,13,Credit Card,16,2022-04
+2022-04-22,Home & Living,874,2,Jazzwallet,1,2022-04
+2022-04-22,Fashion,1316,3,Jazzwallet,2,2022-04
+2022-04-22,Electronics,1055,3,Credit Card,3,2022-04
+2022-04-22,Education,1388,13,E-Wallet,10,2022-04
+2022-04-23,Mobile & Tablet,1643,3,Credit Card,3,2022-04
+2022-04-23,Home & Living,1130,4,E-Wallet,3,2022-04
+2022-04-23,Fashion,1301,5,COD,5,2022-04
+2022-04-23,Electronics,1468,7,Credit Card,6,2022-04
+2022-04-23,Education,993,3,Credit Card,3,2022-04
+2022-04-24,Mobile & Tablet,1207,2,Credit Card,1,2022-04
+2022-04-24,Home & Living,1053,5,Credit Card,6,2022-04
+2022-04-24,Fashion,1175,6,E-Wallet,7,2022-04
+2022-04-24,Electronics,1503,5,E-Wallet,5,2022-04
+2022-04-24,Education,1378,3,COD,3,2022-04
+2022-04-25,Mobile & Tablet,1534,7,COD,7,2022-04
+2022-04-25,Home & Living,1952,5,Jazzwallet,5,2022-04
+2022-04-25,Fashion,1498,3,Credit Card,2,2022-04
+2022-04-25,Electronics,1000,3,Credit Card,2,2022-04
+2022-04-25,Education,768,3,Credit Card,2,2022-04
+2022-04-26,Mobile & Tablet,1236,7,COD,5,2022-04
+2022-04-26,Home & Living,1225,2,Credit Card,1,2022-04
+2022-04-26,Fashion,1618,5,Jazzwallet,3,2022-04
+2022-04-26,Electronics,1295,4,E-Wallet,2,2022-04
+2022-04-26,Education,1431,3,Credit Card,2,2022-04
+2022-04-27,Mobile & Tablet,2884,6,Credit Card,4,2022-04
+2022-04-27,Home & Living,1073,3,E-Wallet,2,2022-04
+2022-04-27,Fashion,1408,3,Credit Card,2,2022-04
+2022-04-27,Electronics,1631,9,Credit Card,9,2022-04
+2022-04-27,Education,1244,2,Credit Card,2,2022-04
+2022-04-28,Mobile & Tablet,2330,6,E-Wallet,4,2022-04
+2022-04-28,Home & Living,1238,3,Jazzwallet,2,2022-04
+2022-04-28,Fashion,1030,5,Credit Card,5,2022-04
+2022-04-28,Electronics,293,0,Credit Card,1,2022-04
+2022-04-28,Education,678,4,Jazzwallet,3,2022-04
+2022-04-29,Mobile & Tablet,2650,9,Credit Card,7,2022-04
+2022-04-29,Home & Living,992,2,Credit Card,2,2022-04
+2022-04-29,Fashion,1505,4,Credit Card,4,2022-04
+2022-04-29,Electronics,992,7,Jazzwallet,7,2022-04
+2022-04-29,Education,1176,5,Credit Card,4,2022-04
+2022-04-30,Mobile & Tablet,1645,7,COD,8,2022-04
+2022-04-30,Home & Living,774,2,Credit Card,2,2022-04
+2022-04-30,Fashion,1500,4,COD,4,2022-04
+2022-04-30,Electronics,1064,2,Credit Card,1,2022-04
+2022-04-30,Education,1407,7,Jazzwallet,7,2022-04
+2022-05-01,Mobile & Tablet,2551,5,Jazzwallet,4,2022-05
+2022-05-01,Home & Living,1241,3,COD,3,2022-05
+2022-05-01,Fashion,1623,4,Credit Card,3,2022-05
+2022-05-01,Electronics,575,1,COD,1,2022-05
+2022-05-01,Education,979,9,Credit Card,10,2022-05
+2022-05-02,Mobile & Tablet,2216,4,Jazzwallet,2,2022-05
+2022-05-02,Home & Living,589,1,Jazzwallet,1,2022-05
+2022-05-02,Fashion,967,2,Jazzwallet,2,2022-05
+2022-05-02,Electronics,1655,4,E-Wallet,4,2022-05
+2022-05-02,Education,888,3,Credit Card,2,2022-05
+2022-05-03,Mobile & Tablet,2670,20,Credit Card,23,2022-05
+2022-05-03,Home & Living,1247,4,E-Wallet,4,2022-05
+2022-05-03,Fashion,545,3,Jazzwallet,2,2022-05
+2022-05-03,Electronics,950,4,COD,4,2022-05
+2022-05-03,Education,807,7,Jazzwallet,8,2022-05
+2022-05-04,Mobile & Tablet,1753,6,E-Wallet,5,2022-05
+2022-05-04,Home & Living,354,1,Credit Card,1,2022-05
+2022-05-04,Fashion,1320,8,COD,7,2022-05
+2022-05-04,Electronics,1880,4,E-Wallet,3,2022-05
+2022-05-04,Education,1033,2,Credit Card,2,2022-05
+2022-05-05,Mobile & Tablet,1738,3,Credit Card,2,2022-05
+2022-05-05,Home & Living,1160,2,Credit Card,1,2022-05
+2022-05-05,Fashion,805,3,Jazzwallet,3,2022-05
+2022-05-05,Electronics,1187,2,Credit Card,1,2022-05
+2022-05-05,Education,1205,3,Credit Card,3,2022-05
+2022-05-06,Mobile & Tablet,2093,10,E-Wallet,11,2022-05
+2022-05-06,Home & Living,1193,2,Credit Card,2,2022-05
+2022-05-06,Fashion,1343,2,E-Wallet,1,2022-05
+2022-05-06,Electronics,1395,3,Jazzwallet,2,2022-05
+2022-05-06,Education,1505,12,E-Wallet,12,2022-05
+2022-05-07,Mobile & Tablet,2576,6,E-Wallet,4,2022-05
+2022-05-07,Home & Living,543,1,Credit Card,1,2022-05
+2022-05-07,Fashion,1596,4,Credit Card,4,2022-05
+2022-05-07,Electronics,1905,17,Jazzwallet,16,2022-05
+2022-05-07,Education,651,3,Credit Card,3,2022-05
+2022-05-08,Mobile & Tablet,2144,5,Credit Card,6,2022-05
+2022-05-08,Home & Living,1310,12,COD,10,2022-05
+2022-05-08,Fashion,1059,7,Jazzwallet,8,2022-05
+2022-05-08,Electronics,1206,5,Credit Card,6,2022-05
+2022-05-08,Education,1435,5,Credit Card,4,2022-05
+2022-05-09,Mobile & Tablet,2383,4,COD,5,2022-05
+2022-05-09,Home & Living,938,2,COD,2,2022-05
+2022-05-09,Fashion,408,1,COD,1,2022-05
+2022-05-09,Electronics,583,1,Credit Card,1,2022-05
+2022-05-09,Education,701,1,Jazzwallet,1,2022-05
+2022-05-10,Mobile & Tablet,2577,6,Credit Card,6,2022-05
+2022-05-10,Home & Living,1904,7,E-Wallet,7,2022-05
+2022-05-10,Fashion,1113,2,Credit Card,1,2022-05
+2022-05-10,Electronics,974,3,Credit Card,3,2022-05
+2022-05-10,Education,1510,5,E-Wallet,5,2022-05
+2022-05-11,Mobile & Tablet,1678,7,Jazzwallet,6,2022-05
+2022-05-11,Home & Living,1508,11,COD,8,2022-05
+2022-05-11,Fashion,1488,6,E-Wallet,7,2022-05
+2022-05-11,Electronics,1471,10,COD,7,2022-05
+2022-05-11,Education,904,1,COD,1,2022-05
+2022-05-12,Mobile & Tablet,1985,11,Credit Card,8,2022-05
+2022-05-12,Home & Living,518,2,Credit Card,2,2022-05
+2022-05-12,Fashion,1276,5,Credit Card,3,2022-05
+2022-05-12,Electronics,1553,3,Credit Card,3,2022-05
+2022-05-12,Education,1644,7,Credit Card,8,2022-05
+2022-05-13,Mobile & Tablet,1841,4,Credit Card,3,2022-05
+2022-05-13,Home & Living,478,1,COD,1,2022-05
+2022-05-13,Fashion,892,2,COD,2,2022-05
+2022-05-13,Electronics,1320,7,Credit Card,7,2022-05
+2022-05-13,Education,1275,11,Credit Card,9,2022-05
+2022-05-14,Mobile & Tablet,1705,11,E-Wallet,11,2022-05
+2022-05-14,Home & Living,783,2,Credit Card,1,2022-05
+2022-05-14,Fashion,1223,3,Jazzwallet,3,2022-05
+2022-05-14,Electronics,974,4,Credit Card,4,2022-05
+2022-05-14,Education,1205,6,E-Wallet,4,2022-05
+2022-05-15,Mobile & Tablet,2495,9,E-Wallet,10,2022-05
+2022-05-15,Home & Living,887,4,Credit Card,4,2022-05
+2022-05-15,Fashion,1569,3,E-Wallet,2,2022-05
+2022-05-15,Electronics,961,3,Credit Card,3,2022-05
+2022-05-15,Education,1295,4,Credit Card,5,2022-05
+2022-05-16,Mobile & Tablet,1650,5,COD,3,2022-05
+2022-05-16,Home & Living,1388,12,Credit Card,10,2022-05
+2022-05-16,Fashion,906,8,E-Wallet,8,2022-05
+2022-05-16,Electronics,977,3,COD,2,2022-05
+2022-05-16,Education,1086,5,Credit Card,4,2022-05
+2022-05-17,Mobile & Tablet,1956,7,COD,8,2022-05
+2022-05-17,Home & Living,1600,3,Jazzwallet,3,2022-05
+2022-05-17,Fashion,1644,12,COD,11,2022-05
+2022-05-17,Electronics,1084,4,Credit Card,4,2022-05
+2022-05-17,Education,1441,5,Jazzwallet,4,2022-05
+2022-05-18,Mobile & Tablet,1356,3,COD,3,2022-05
+2022-05-18,Home & Living,1587,6,COD,5,2022-05
+2022-05-18,Fashion,707,4,E-Wallet,3,2022-05
+2022-05-18,Electronics,1004,4,COD,4,2022-05
+2022-05-18,Education,1141,2,E-Wallet,1,2022-05
+2022-05-19,Mobile & Tablet,1084,2,Jazzwallet,1,2022-05
+2022-05-19,Home & Living,791,1,Credit Card,1,2022-05
+2022-05-19,Fashion,1172,4,E-Wallet,2,2022-05
+2022-05-19,Electronics,1205,2,COD,1,2022-05
+2022-05-19,Education,1457,7,Jazzwallet,8,2022-05
+2022-05-20,Mobile & Tablet,2430,8,Jazzwallet,7,2022-05
+2022-05-20,Home & Living,794,1,Jazzwallet,1,2022-05
+2022-05-20,Fashion,1031,7,COD,5,2022-05
+2022-05-20,Electronics,1544,5,Credit Card,5,2022-05
+2022-05-20,Education,1890,8,E-Wallet,8,2022-05
+2022-05-21,Mobile & Tablet,2757,8,Credit Card,6,2022-05
+2022-05-21,Home & Living,1264,8,Credit Card,5,2022-05
+2022-05-21,Fashion,932,3,COD,2,2022-05
+2022-05-21,Electronics,913,2,Credit Card,2,2022-05
+2022-05-21,Education,1267,2,E-Wallet,1,2022-05
+2022-05-22,Mobile & Tablet,1043,3,Credit Card,3,2022-05
+2022-05-22,Home & Living,1499,12,COD,12,2022-05
+2022-05-22,Fashion,1290,3,E-Wallet,3,2022-05
+2022-05-22,Electronics,1604,5,E-Wallet,4,2022-05
+2022-05-22,Education,1386,4,Credit Card,2,2022-05
+2022-05-23,Mobile & Tablet,2668,5,Jazzwallet,5,2022-05
+2022-05-23,Home & Living,1601,4,Jazzwallet,5,2022-05
+2022-05-23,Fashion,621,3,E-Wallet,3,2022-05
+2022-05-23,Electronics,1266,2,Credit Card,2,2022-05
+2022-05-23,Education,1987,4,Credit Card,4,2022-05
+2022-05-24,Mobile & Tablet,863,8,Credit Card,6,2022-05
+2022-05-24,Home & Living,1045,6,Jazzwallet,6,2022-05
+2022-05-24,Fashion,1411,4,E-Wallet,4,2022-05
+2022-05-24,Electronics,1217,5,Credit Card,6,2022-05
+2022-05-24,Education,1319,3,Credit Card,2,2022-05
+2022-05-25,Mobile & Tablet,1506,4,E-Wallet,4,2022-05
+2022-05-25,Home & Living,1674,4,Credit Card,4,2022-05
+2022-05-25,Fashion,937,4,COD,4,2022-05
+2022-05-25,Electronics,1577,5,E-Wallet,5,2022-05
+2022-05-25,Education,1310,7,COD,6,2022-05
+2022-05-26,Mobile & Tablet,2632,10,Credit Card,10,2022-05
+2022-05-26,Home & Living,949,2,Credit Card,2,2022-05
+2022-05-26,Fashion,809,2,Credit Card,1,2022-05
+2022-05-26,Electronics,1955,17,E-Wallet,13,2022-05
+2022-05-26,Education,1111,3,E-Wallet,3,2022-05
+2022-05-27,Mobile & Tablet,1193,5,Jazzwallet,3,2022-05
+2022-05-27,Home & Living,622,1,Credit Card,1,2022-05
+2022-05-27,Fashion,953,3,Credit Card,3,2022-05
+2022-05-27,Electronics,1484,6,E-Wallet,7,2022-05
+2022-05-27,Education,1375,2,Jazzwallet,1,2022-05
+2022-05-28,Mobile & Tablet,2394,5,COD,4,2022-05
+2022-05-28,Home & Living,1806,4,Credit Card,4,2022-05
+2022-05-28,Fashion,1010,2,E-Wallet,1,2022-05
+2022-05-28,Electronics,1516,5,E-Wallet,4,2022-05
+2022-05-28,Education,1145,4,E-Wallet,4,2022-05
+2022-05-29,Mobile & Tablet,1148,2,Credit Card,1,2022-05
+2022-05-29,Home & Living,1276,6,Jazzwallet,6,2022-05
+2022-05-29,Fashion,693,1,Credit Card,1,2022-05
+2022-05-29,Electronics,864,6,Jazzwallet,6,2022-05
+2022-05-29,Education,964,9,Credit Card,11,2022-05
+2022-05-30,Mobile & Tablet,2728,9,Credit Card,8,2022-05
+2022-05-30,Home & Living,1448,3,COD,2,2022-05
+2022-05-30,Fashion,278,1,Credit Card,1,2022-05
+2022-05-30,Electronics,1444,4,Credit Card,4,2022-05
+2022-05-30,Education,786,1,Credit Card,1,2022-05
+2022-05-31,Mobile & Tablet,2518,8,Jazzwallet,7,2022-05
+2022-05-31,Home & Living,1408,9,E-Wallet,11,2022-05
+2022-05-31,Fashion,984,3,Jazzwallet,2,2022-05
+2022-05-31,Electronics,1712,4,COD,2,2022-05
+2022-05-31,Education,1247,5,COD,4,2022-05
+2022-06-01,Mobile & Tablet,950,2,COD,1,2022-06
+2022-06-01,Home & Living,1549,7,COD,7,2022-06
+2022-06-01,Fashion,1489,9,Credit Card,11,2022-06
+2022-06-01,Electronics,1392,7,Jazzwallet,8,2022-06
+2022-06-01,Education,1519,3,COD,3,2022-06
+2022-06-02,Mobile & Tablet,2503,14,Credit Card,12,2022-06
+2022-06-02,Home & Living,977,2,Credit Card,1,2022-06
+2022-06-02,Fashion,1465,7,E-Wallet,6,2022-06
+2022-06-02,Electronics,1610,4,Credit Card,3,2022-06
+2022-06-02,Education,1056,5,COD,6,2022-06
+2022-06-03,Mobile & Tablet,2179,7,Jazzwallet,7,2022-06
+2022-06-03,Home & Living,1877,7,Jazzwallet,7,2022-06
+2022-06-03,Fashion,1203,3,Credit Card,2,2022-06
+2022-06-03,Electronics,1267,6,Credit Card,5,2022-06
+2022-06-03,Education,1282,2,E-Wallet,2,2022-06
+2022-06-04,Mobile & Tablet,1876,3,Credit Card,3,2022-06
+2022-06-04,Home & Living,1030,5,COD,4,2022-06
+2022-06-04,Fashion,1058,9,Credit Card,7,2022-06
+2022-06-04,Electronics,1047,2,Credit Card,2,2022-06
+2022-06-04,Education,1563,9,Jazzwallet,10,2022-06
+2022-06-05,Mobile & Tablet,1888,4,Jazzwallet,3,2022-06
+2022-06-05,Home & Living,1016,6,Credit Card,7,2022-06
+2022-06-05,Fashion,1276,6,COD,6,2022-06
+2022-06-05,Electronics,1070,2,COD,2,2022-06
+2022-06-05,Education,722,1,Credit Card,1,2022-06
+2022-06-06,Mobile & Tablet,1203,11,Credit Card,14,2022-06
+2022-06-06,Home & Living,1227,4,COD,4,2022-06
+2022-06-06,Fashion,535,1,Jazzwallet,1,2022-06
+2022-06-06,Electronics,865,4,Credit Card,3,2022-06
+2022-06-06,Education,1541,12,Jazzwallet,12,2022-06
+2022-06-07,Mobile & Tablet,1228,3,Jazzwallet,3,2022-06
+2022-06-07,Home & Living,1003,4,Credit Card,3,2022-06
+2022-06-07,Fashion,1102,2,Credit Card,1,2022-06
+2022-06-07,Electronics,1628,11,Credit Card,11,2022-06
+2022-06-07,Education,1564,9,Credit Card,10,2022-06
+2022-06-08,Mobile & Tablet,2330,4,COD,4,2022-06
+2022-06-08,Home & Living,1322,10,Jazzwallet,10,2022-06
+2022-06-08,Fashion,1423,6,Credit Card,7,2022-06
+2022-06-08,Electronics,1141,6,E-Wallet,4,2022-06
+2022-06-08,Education,888,2,E-Wallet,1,2022-06
+2022-06-09,Mobile & Tablet,1915,5,E-Wallet,5,2022-06
+2022-06-09,Home & Living,1294,9,Credit Card,10,2022-06
+2022-06-09,Fashion,651,2,COD,2,2022-06
+2022-06-09,Electronics,1173,2,Credit Card,1,2022-06
+2022-06-09,Education,1112,2,Credit Card,1,2022-06
+2022-06-10,Mobile & Tablet,2276,19,Jazzwallet,24,2022-06
+2022-06-10,Home & Living,714,3,E-Wallet,2,2022-06
+2022-06-10,Fashion,542,1,Credit Card,1,2022-06
+2022-06-10,Electronics,1180,2,E-Wallet,1,2022-06
+2022-06-10,Education,1058,2,COD,1,2022-06
+2022-06-11,Mobile & Tablet,2881,7,E-Wallet,8,2022-06
+2022-06-11,Home & Living,1559,7,COD,6,2022-06
+2022-06-11,Fashion,1114,5,COD,6,2022-06
+2022-06-11,Electronics,1027,3,Credit Card,3,2022-06
+2022-06-11,Education,561,2,Jazzwallet,1,2022-06
+2022-06-12,Mobile & Tablet,1704,4,Credit Card,5,2022-06
+2022-06-12,Home & Living,1719,3,Credit Card,2,2022-06
+2022-06-12,Fashion,1395,6,E-Wallet,5,2022-06
+2022-06-12,Electronics,826,4,Jazzwallet,5,2022-06
+2022-06-12,Education,1873,7,Credit Card,6,2022-06
+2022-06-13,Mobile & Tablet,808,5,E-Wallet,5,2022-06
+2022-06-13,Home & Living,1421,2,Credit Card,1,2022-06
+2022-06-13,Fashion,996,2,Credit Card,1,2022-06
+2022-06-13,Electronics,1429,13,Credit Card,13,2022-06
+2022-06-13,Education,1096,4,Credit Card,4,2022-06
+2022-06-14,Mobile & Tablet,1805,4,Jazzwallet,3,2022-06
+2022-06-14,Home & Living,1489,4,COD,3,2022-06
+2022-06-14,Fashion,826,5,Credit Card,3,2022-06
+2022-06-14,Electronics,1467,6,COD,5,2022-06
+2022-06-14,Education,457,2,Credit Card,2,2022-06
+2022-06-15,Mobile & Tablet,2330,10,Credit Card,7,2022-06
+2022-06-15,Home & Living,1238,9,Credit Card,7,2022-06
+2022-06-15,Fashion,650,4,Credit Card,3,2022-06
+2022-06-15,Electronics,1567,5,COD,6,2022-06
+2022-06-15,Education,1951,6,COD,6,2022-06
+2022-06-16,Mobile & Tablet,2000,8,E-Wallet,8,2022-06
+2022-06-16,Home & Living,733,2,Jazzwallet,2,2022-06
+2022-06-16,Fashion,1079,4,E-Wallet,4,2022-06
+2022-06-16,Electronics,915,2,Credit Card,2,2022-06
+2022-06-16,Education,1213,2,COD,2,2022-06
+2022-06-17,Mobile & Tablet,1130,4,Jazzwallet,3,2022-06
+2022-06-17,Home & Living,1930,5,Credit Card,3,2022-06
+2022-06-17,Fashion,1545,6,COD,6,2022-06
+2022-06-17,Electronics,1583,3,Credit Card,3,2022-06
+2022-06-17,Education,1164,3,Credit Card,3,2022-06
+2022-06-18,Mobile & Tablet,1750,7,Jazzwallet,6,2022-06
+2022-06-18,Home & Living,289,0,Jazzwallet,1,2022-06
+2022-06-18,Fashion,718,1,E-Wallet,1,2022-06
+2022-06-18,Electronics,1168,2,E-Wallet,1,2022-06
+2022-06-18,Education,1305,10,E-Wallet,10,2022-06
+2022-06-19,Mobile & Tablet,2004,6,Credit Card,4,2022-06
+2022-06-19,Home & Living,1453,9,Credit Card,8,2022-06
+2022-06-19,Fashion,1736,4,COD,4,2022-06
+2022-06-19,Electronics,1124,2,COD,1,2022-06
+2022-06-19,Education,1959,6,Jazzwallet,6,2022-06
+2022-06-20,Mobile & Tablet,2861,6,COD,7,2022-06
+2022-06-20,Home & Living,404,0,COD,1,2022-06
+2022-06-20,Fashion,1440,9,Credit Card,7,2022-06
+2022-06-20,Electronics,869,2,Credit Card,1,2022-06
+2022-06-20,Education,1430,3,COD,3,2022-06
+2022-06-21,Mobile & Tablet,1120,3,COD,2,2022-06
+2022-06-21,Home & Living,1851,12,Credit Card,12,2022-06
+2022-06-21,Fashion,1121,2,Credit Card,1,2022-06
+2022-06-21,Electronics,1506,3,COD,3,2022-06
+2022-06-21,Education,1143,3,COD,2,2022-06
+2022-06-22,Mobile & Tablet,2306,7,Credit Card,7,2022-06
+2022-06-22,Home & Living,1571,4,COD,4,2022-06
+2022-06-22,Fashion,1257,4,Credit Card,3,2022-06
+2022-06-22,Electronics,648,1,E-Wallet,1,2022-06
+2022-06-22,Education,1421,3,E-Wallet,3,2022-06
+2022-06-23,Mobile & Tablet,2317,5,COD,3,2022-06
+2022-06-23,Home & Living,1131,9,Jazzwallet,11,2022-06
+2022-06-23,Fashion,664,2,E-Wallet,2,2022-06
+2022-06-23,Electronics,1334,4,E-Wallet,4,2022-06
+2022-06-23,Education,1369,4,COD,3,2022-06
+2022-06-24,Mobile & Tablet,1598,4,Credit Card,4,2022-06
+2022-06-24,Home & Living,1299,3,E-Wallet,3,2022-06
+2022-06-24,Fashion,1416,3,Credit Card,3,2022-06
+2022-06-24,Electronics,1575,3,Credit Card,2,2022-06
+2022-06-24,Education,1185,2,Credit Card,1,2022-06
+2022-06-25,Mobile & Tablet,1919,9,COD,7,2022-06
+2022-06-25,Home & Living,1212,2,E-Wallet,1,2022-06
+2022-06-25,Fashion,800,3,Credit Card,3,2022-06
+2022-06-25,Electronics,1836,7,Credit Card,7,2022-06
+2022-06-25,Education,1022,4,E-Wallet,3,2022-06
+2022-06-26,Mobile & Tablet,1117,7,Credit Card,6,2022-06
+2022-06-26,Home & Living,1250,3,E-Wallet,3,2022-06
+2022-06-26,Fashion,986,1,E-Wallet,1,2022-06
+2022-06-26,Electronics,1244,4,Credit Card,5,2022-06
+2022-06-26,Education,1200,7,COD,7,2022-06
+2022-06-27,Mobile & Tablet,1233,2,COD,2,2022-06
+2022-06-27,Home & Living,719,2,Credit Card,1,2022-06
+2022-06-27,Fashion,1059,4,Jazzwallet,4,2022-06
+2022-06-27,Electronics,482,4,E-Wallet,4,2022-06
+2022-06-27,Education,461,1,E-Wallet,1,2022-06
+2022-06-28,Mobile & Tablet,2710,6,E-Wallet,6,2022-06
+2022-06-28,Home & Living,1307,2,Credit Card,1,2022-06
+2022-06-28,Fashion,1173,3,COD,3,2022-06
+2022-06-28,Electronics,1037,4,COD,4,2022-06
+2022-06-28,Education,1359,5,COD,4,2022-06
+2022-06-29,Mobile & Tablet,2000,11,E-Wallet,7,2022-06
+2022-06-29,Home & Living,1291,5,COD,6,2022-06
+2022-06-29,Fashion,1495,3,Jazzwallet,2,2022-06
+2022-06-29,Electronics,1323,2,Credit Card,2,2022-06
+2022-06-29,Education,1311,6,Jazzwallet,4,2022-06
+2022-06-30,Mobile & Tablet,1893,4,E-Wallet,2,2022-06
+2022-06-30,Home & Living,642,1,Jazzwallet,1,2022-06
+2022-06-30,Fashion,587,1,Credit Card,1,2022-06
+2022-06-30,Electronics,1033,5,Credit Card,3,2022-06
+2022-06-30,Education,922,4,Credit Card,5,2022-06
+2022-07-01,Mobile & Tablet,1222,3,E-Wallet,2,2022-07
+2022-07-01,Home & Living,1517,3,Credit Card,2,2022-07
+2022-07-01,Fashion,1063,8,Credit Card,8,2022-07
+2022-07-01,Electronics,1070,2,Credit Card,1,2022-07
+2022-07-01,Education,1308,2,Jazzwallet,1,2022-07
+2022-07-02,Mobile & Tablet,1903,5,Credit Card,5,2022-07
+2022-07-02,Home & Living,1572,7,Credit Card,6,2022-07
+2022-07-02,Fashion,1005,8,COD,9,2022-07
+2022-07-02,Electronics,806,1,Credit Card,1,2022-07
+2022-07-02,Education,1262,9,E-Wallet,8,2022-07
+2022-07-03,Mobile & Tablet,1376,4,Credit Card,3,2022-07
+2022-07-03,Home & Living,1468,10,E-Wallet,9,2022-07
+2022-07-03,Fashion,1904,5,COD,3,2022-07
+2022-07-03,Electronics,942,2,Jazzwallet,1,2022-07
+2022-07-03,Education,1808,4,E-Wallet,4,2022-07
+2022-07-04,Mobile & Tablet,2056,5,COD,4,2022-07
+2022-07-04,Home & Living,1821,13,E-Wallet,14,2022-07
+2022-07-04,Fashion,958,4,Credit Card,3,2022-07
+2022-07-04,Electronics,1055,4,Credit Card,4,2022-07
+2022-07-04,Education,1336,4,Credit Card,3,2022-07
+2022-07-05,Mobile & Tablet,1885,17,Credit Card,20,2022-07
+2022-07-05,Home & Living,941,3,COD,3,2022-07
+2022-07-05,Fashion,1117,2,Credit Card,2,2022-07
+2022-07-05,Electronics,954,2,Credit Card,2,2022-07
+2022-07-05,Education,956,1,Jazzwallet,1,2022-07
+2022-07-06,Mobile & Tablet,2320,7,Credit Card,6,2022-07
+2022-07-06,Home & Living,1642,3,Credit Card,2,2022-07
+2022-07-06,Fashion,1498,7,E-Wallet,7,2022-07
+2022-07-06,Electronics,1190,2,Credit Card,2,2022-07
+2022-07-06,Education,394,1,Credit Card,1,2022-07
+2022-07-07,Mobile & Tablet,727,2,Credit Card,2,2022-07
+2022-07-07,Home & Living,1137,3,E-Wallet,2,2022-07
+2022-07-07,Fashion,1418,7,Credit Card,6,2022-07
+2022-07-07,Electronics,2067,6,Credit Card,6,2022-07
+2022-07-07,Education,1279,8,Jazzwallet,5,2022-07
+2022-07-08,Mobile & Tablet,749,2,E-Wallet,2,2022-07
+2022-07-08,Home & Living,1820,4,Credit Card,3,2022-07
+2022-07-08,Fashion,1289,7,E-Wallet,7,2022-07
+2022-07-08,Electronics,878,4,E-Wallet,3,2022-07
+2022-07-08,Education,1007,2,Credit Card,2,2022-07
+2022-07-09,Mobile & Tablet,2215,7,Credit Card,8,2022-07
+2022-07-09,Home & Living,969,3,Credit Card,2,2022-07
+2022-07-09,Fashion,1140,3,Credit Card,2,2022-07
+2022-07-09,Electronics,756,3,E-Wallet,2,2022-07
+2022-07-09,Education,838,2,COD,1,2022-07
+2022-07-10,Mobile & Tablet,2524,6,E-Wallet,6,2022-07
+2022-07-10,Home & Living,662,2,E-Wallet,1,2022-07
+2022-07-10,Fashion,1899,9,Credit Card,8,2022-07
+2022-07-10,Electronics,1025,5,Credit Card,4,2022-07
+2022-07-10,Education,1160,2,Jazzwallet,2,2022-07
+2022-07-11,Mobile & Tablet,1520,7,E-Wallet,5,2022-07
+2022-07-11,Home & Living,1430,6,Credit Card,6,2022-07
+2022-07-11,Fashion,1131,2,Credit Card,2,2022-07
+2022-07-11,Electronics,1230,3,Jazzwallet,2,2022-07
+2022-07-11,Education,123,0,COD,1,2022-07
+2022-07-12,Mobile & Tablet,2519,24,Jazzwallet,30,2022-07
+2022-07-12,Home & Living,1259,5,Jazzwallet,4,2022-07
+2022-07-12,Fashion,858,3,E-Wallet,2,2022-07
+2022-07-12,Electronics,1829,7,E-Wallet,6,2022-07
+2022-07-12,Education,802,4,COD,5,2022-07
+2022-07-13,Mobile & Tablet,2554,10,Credit Card,11,2022-07
+2022-07-13,Home & Living,1326,2,Credit Card,1,2022-07
+2022-07-13,Fashion,994,2,Jazzwallet,2,2022-07
+2022-07-13,Electronics,1614,3,Credit Card,3,2022-07
+2022-07-13,Education,1855,8,Credit Card,5,2022-07
+2022-07-14,Mobile & Tablet,1452,4,Credit Card,4,2022-07
+2022-07-14,Home & Living,1267,9,Credit Card,8,2022-07
+2022-07-14,Fashion,1155,3,Jazzwallet,2,2022-07
+2022-07-14,Electronics,1233,3,Credit Card,2,2022-07
+2022-07-14,Education,1268,2,Jazzwallet,2,2022-07
+2022-07-15,Mobile & Tablet,2159,10,Jazzwallet,8,2022-07
+2022-07-15,Home & Living,572,1,E-Wallet,1,2022-07
+2022-07-15,Fashion,1409,6,E-Wallet,5,2022-07
+2022-07-15,Electronics,1044,6,Jazzwallet,6,2022-07
+2022-07-15,Education,1147,3,Credit Card,3,2022-07
+2022-07-16,Mobile & Tablet,2291,8,E-Wallet,9,2022-07
+2022-07-16,Home & Living,642,5,Credit Card,4,2022-07
+2022-07-16,Fashion,1615,13,Credit Card,10,2022-07
+2022-07-16,Electronics,1013,3,Credit Card,2,2022-07
+2022-07-16,Education,1037,3,Jazzwallet,3,2022-07
+2022-07-17,Mobile & Tablet,2331,6,COD,5,2022-07
+2022-07-17,Home & Living,1008,3,COD,3,2022-07
+2022-07-17,Fashion,1281,10,Credit Card,10,2022-07
+2022-07-17,Electronics,647,1,COD,1,2022-07
+2022-07-17,Education,1592,3,Credit Card,3,2022-07
+2022-07-18,Mobile & Tablet,2619,13,COD,16,2022-07
+2022-07-18,Home & Living,1684,11,E-Wallet,11,2022-07
+2022-07-18,Fashion,706,4,Credit Card,4,2022-07
+2022-07-18,Electronics,944,2,Credit Card,1,2022-07
+2022-07-18,Education,945,2,Credit Card,2,2022-07
+2022-07-19,Mobile & Tablet,1434,4,Credit Card,3,2022-07
+2022-07-19,Home & Living,1866,5,Credit Card,5,2022-07
+2022-07-19,Fashion,1257,4,Credit Card,3,2022-07
+2022-07-19,Electronics,387,1,COD,1,2022-07
+2022-07-19,Education,961,2,Credit Card,2,2022-07
+2022-07-20,Mobile & Tablet,2975,11,E-Wallet,12,2022-07
+2022-07-20,Home & Living,1019,2,Credit Card,2,2022-07
+2022-07-20,Fashion,491,4,Credit Card,4,2022-07
+2022-07-20,Electronics,797,1,Credit Card,1,2022-07
+2022-07-20,Education,545,1,Credit Card,1,2022-07
+2022-07-21,Mobile & Tablet,2455,6,E-Wallet,7,2022-07
+2022-07-21,Home & Living,1742,3,E-Wallet,3,2022-07
+2022-07-21,Fashion,950,2,E-Wallet,1,2022-07
+2022-07-21,Electronics,945,2,COD,2,2022-07
+2022-07-21,Education,1508,8,COD,8,2022-07
+2022-07-22,Mobile & Tablet,2266,8,Credit Card,7,2022-07
+2022-07-22,Home & Living,785,2,Credit Card,1,2022-07
+2022-07-22,Fashion,1091,8,COD,9,2022-07
+2022-07-22,Electronics,764,1,Credit Card,1,2022-07
+2022-07-22,Education,991,9,E-Wallet,11,2022-07
+2022-07-23,Mobile & Tablet,1865,3,Jazzwallet,2,2022-07
+2022-07-23,Home & Living,986,2,Credit Card,1,2022-07
+2022-07-23,Fashion,1161,4,Credit Card,2,2022-07
+2022-07-23,Electronics,956,2,COD,1,2022-07
+2022-07-23,Education,1561,3,E-Wallet,3,2022-07
+2022-07-24,Mobile & Tablet,2570,15,E-Wallet,13,2022-07
+2022-07-24,Home & Living,832,5,Jazzwallet,4,2022-07
+2022-07-24,Fashion,1355,3,Credit Card,2,2022-07
+2022-07-24,Electronics,1369,12,E-Wallet,9,2022-07
+2022-07-24,Education,485,2,Credit Card,1,2022-07
+2022-07-25,Mobile & Tablet,1633,4,COD,2,2022-07
+2022-07-25,Home & Living,153,0,Credit Card,1,2022-07
+2022-07-25,Fashion,1065,2,Credit Card,1,2022-07
+2022-07-25,Electronics,1389,3,Jazzwallet,2,2022-07
+2022-07-25,Education,1105,4,Credit Card,3,2022-07
+2022-07-26,Mobile & Tablet,2231,17,Credit Card,19,2022-07
+2022-07-26,Home & Living,1060,4,Credit Card,5,2022-07
+2022-07-26,Fashion,734,1,Credit Card,1,2022-07
+2022-07-26,Electronics,755,5,Credit Card,5,2022-07
+2022-07-26,Education,1385,2,Jazzwallet,1,2022-07
+2022-07-27,Mobile & Tablet,2583,5,COD,4,2022-07
+2022-07-27,Home & Living,769,1,Jazzwallet,1,2022-07
+2022-07-27,Fashion,1521,7,E-Wallet,9,2022-07
+2022-07-27,Electronics,1417,3,E-Wallet,2,2022-07
+2022-07-27,Education,1601,5,COD,4,2022-07
+2022-07-28,Mobile & Tablet,3268,8,Credit Card,8,2022-07
+2022-07-28,Home & Living,856,2,Credit Card,1,2022-07
+2022-07-28,Fashion,1400,2,Jazzwallet,2,2022-07
+2022-07-28,Electronics,2074,4,Credit Card,4,2022-07
+2022-07-28,Education,1438,7,E-Wallet,5,2022-07
+2022-07-29,Mobile & Tablet,2382,6,Jazzwallet,7,2022-07
+2022-07-29,Home & Living,1446,4,COD,4,2022-07
+2022-07-29,Fashion,1180,8,Credit Card,8,2022-07
+2022-07-29,Electronics,1070,3,Jazzwallet,3,2022-07
+2022-07-29,Education,1101,4,Credit Card,4,2022-07
+2022-07-30,Mobile & Tablet,1400,3,Jazzwallet,2,2022-07
+2022-07-30,Home & Living,1114,3,E-Wallet,2,2022-07
+2022-07-30,Fashion,1448,5,Credit Card,4,2022-07
+2022-07-30,Electronics,1598,6,E-Wallet,5,2022-07
+2022-07-30,Education,1338,3,Credit Card,3,2022-07
+2022-07-31,Mobile & Tablet,2768,5,Credit Card,6,2022-07
+2022-07-31,Home & Living,1294,3,Credit Card,2,2022-07
+2022-07-31,Fashion,1082,8,E-Wallet,9,2022-07
+2022-07-31,Electronics,626,2,COD,2,2022-07
+2022-07-31,Education,1514,6,Jazzwallet,5,2022-07
+2022-08-01,Mobile & Tablet,2391,11,Jazzwallet,10,2022-08
+2022-08-01,Home & Living,790,2,COD,1,2022-08
+2022-08-01,Fashion,1439,4,Jazzwallet,4,2022-08
+2022-08-01,Electronics,1898,7,Credit Card,6,2022-08
+2022-08-01,Education,1445,3,COD,3,2022-08
+2022-08-02,Mobile & Tablet,1811,4,E-Wallet,2,2022-08
+2022-08-02,Home & Living,1410,6,Jazzwallet,6,2022-08
+2022-08-02,Fashion,514,1,E-Wallet,1,2022-08
+2022-08-02,Electronics,889,4,Credit Card,4,2022-08
+2022-08-02,Education,1210,3,Credit Card,2,2022-08
+2022-08-03,Mobile & Tablet,1623,9,E-Wallet,11,2022-08
+2022-08-03,Home & Living,1096,7,E-Wallet,9,2022-08
+2022-08-03,Fashion,1659,10,Credit Card,8,2022-08
+2022-08-03,Electronics,1321,4,COD,4,2022-08
+2022-08-03,Education,914,3,COD,3,2022-08
+2022-08-04,Mobile & Tablet,1760,3,COD,3,2022-08
+2022-08-04,Home & Living,1391,3,COD,3,2022-08
+2022-08-04,Fashion,1330,5,COD,5,2022-08
+2022-08-04,Electronics,1170,2,E-Wallet,1,2022-08
+2022-08-04,Education,497,1,E-Wallet,1,2022-08
+2022-08-05,Mobile & Tablet,3532,14,Jazzwallet,10,2022-08
+2022-08-05,Home & Living,968,7,E-Wallet,6,2022-08
+2022-08-05,Fashion,1336,6,Credit Card,6,2022-08
+2022-08-05,Electronics,1135,2,Credit Card,2,2022-08
+2022-08-05,Education,1772,3,Jazzwallet,3,2022-08
+2022-08-06,Mobile & Tablet,2344,5,Credit Card,5,2022-08
+2022-08-06,Home & Living,470,2,Credit Card,2,2022-08
+2022-08-06,Fashion,1491,4,Jazzwallet,4,2022-08
+2022-08-06,Electronics,830,3,COD,3,2022-08
+2022-08-06,Education,1642,15,Credit Card,14,2022-08
+2022-08-07,Mobile & Tablet,2130,4,Credit Card,4,2022-08
+2022-08-07,Home & Living,847,6,Credit Card,6,2022-08
+2022-08-07,Fashion,1364,3,Jazzwallet,2,2022-08
+2022-08-07,Electronics,847,4,E-Wallet,3,2022-08
+2022-08-07,Education,1744,5,COD,3,2022-08
+2022-08-08,Mobile & Tablet,2888,15,Credit Card,17,2022-08
+2022-08-08,Home & Living,1093,2,Credit Card,2,2022-08
+2022-08-08,Fashion,1071,2,Jazzwallet,2,2022-08
+2022-08-08,Electronics,898,3,Credit Card,3,2022-08
+2022-08-08,Education,1018,3,Credit Card,2,2022-08
+2022-08-09,Mobile & Tablet,1538,14,Credit Card,16,2022-08
+2022-08-09,Home & Living,1105,3,Jazzwallet,3,2022-08
+2022-08-09,Fashion,1126,9,Credit Card,10,2022-08
+2022-08-09,Electronics,1489,11,Credit Card,8,2022-08
+2022-08-09,Education,1632,6,Credit Card,7,2022-08
+2022-08-10,Mobile & Tablet,2190,5,E-Wallet,5,2022-08
+2022-08-10,Home & Living,1270,3,Credit Card,3,2022-08
+2022-08-10,Fashion,1164,6,Credit Card,6,2022-08
+2022-08-10,Electronics,1163,5,Credit Card,6,2022-08
+2022-08-10,Education,1022,7,COD,6,2022-08
+2022-08-11,Mobile & Tablet,1595,4,COD,2,2022-08
+2022-08-11,Home & Living,1054,3,Jazzwallet,3,2022-08
+2022-08-11,Fashion,1115,3,Credit Card,2,2022-08
+2022-08-11,Electronics,1490,3,Credit Card,2,2022-08
+2022-08-11,Education,1209,9,Credit Card,11,2022-08
+2022-08-12,Mobile & Tablet,959,7,Credit Card,4,2022-08
+2022-08-12,Home & Living,1402,5,COD,4,2022-08
+2022-08-12,Fashion,1060,4,Credit Card,2,2022-08
+2022-08-12,Electronics,1356,4,COD,4,2022-08
+2022-08-12,Education,1353,3,Credit Card,2,2022-08
+2022-08-13,Mobile & Tablet,2258,17,Credit Card,12,2022-08
+2022-08-13,Home & Living,971,4,E-Wallet,5,2022-08
+2022-08-13,Fashion,1076,4,Jazzwallet,4,2022-08
+2022-08-13,Electronics,1407,7,Jazzwallet,7,2022-08
+2022-08-13,Education,1272,11,Credit Card,14,2022-08
+2022-08-14,Mobile & Tablet,2004,4,Jazzwallet,2,2022-08
+2022-08-14,Home & Living,1263,12,Credit Card,12,2022-08
+2022-08-14,Fashion,718,2,Credit Card,1,2022-08
+2022-08-14,Electronics,1167,4,COD,4,2022-08
+2022-08-14,Education,1170,2,Jazzwallet,2,2022-08
+2022-08-15,Mobile & Tablet,2582,6,COD,6,2022-08
+2022-08-15,Home & Living,766,3,COD,2,2022-08
+2022-08-15,Fashion,1542,9,Credit Card,6,2022-08
+2022-08-15,Electronics,1858,4,E-Wallet,4,2022-08
+2022-08-15,Education,737,2,Credit Card,2,2022-08
+2022-08-16,Mobile & Tablet,1977,11,Credit Card,8,2022-08
+2022-08-16,Home & Living,1601,7,COD,7,2022-08
+2022-08-16,Fashion,960,3,E-Wallet,2,2022-08
+2022-08-16,Electronics,1216,3,Credit Card,2,2022-08
+2022-08-16,Education,1218,2,COD,1,2022-08
+2022-08-17,Mobile & Tablet,2318,7,Credit Card,7,2022-08
+2022-08-17,Home & Living,1012,7,E-Wallet,8,2022-08
+2022-08-17,Fashion,1257,6,COD,5,2022-08
+2022-08-17,Electronics,1068,2,Credit Card,2,2022-08
+2022-08-17,Education,852,5,Jazzwallet,5,2022-08
+2022-08-18,Mobile & Tablet,2977,9,E-Wallet,11,2022-08
+2022-08-18,Home & Living,1692,3,Credit Card,2,2022-08
+2022-08-18,Fashion,779,3,Credit Card,2,2022-08
+2022-08-18,Electronics,2125,5,Credit Card,3,2022-08
+2022-08-18,Education,711,1,Jazzwallet,1,2022-08
+2022-08-19,Mobile & Tablet,2198,9,Credit Card,10,2022-08
+2022-08-19,Home & Living,1722,4,COD,4,2022-08
+2022-08-19,Fashion,1105,2,Credit Card,2,2022-08
+2022-08-19,Electronics,2078,10,Credit Card,10,2022-08
+2022-08-19,Education,537,3,Jazzwallet,2,2022-08
+2022-08-20,Mobile & Tablet,1980,4,E-Wallet,3,2022-08
+2022-08-20,Home & Living,879,3,COD,2,2022-08
+2022-08-20,Fashion,1177,2,Credit Card,2,2022-08
+2022-08-20,Electronics,1282,2,Credit Card,2,2022-08
+2022-08-20,Education,1586,5,COD,4,2022-08
+2022-08-21,Mobile & Tablet,1503,3,Credit Card,2,2022-08
+2022-08-21,Home & Living,778,5,Credit Card,5,2022-08
+2022-08-21,Fashion,952,2,Jazzwallet,1,2022-08
+2022-08-21,Electronics,1251,11,Credit Card,9,2022-08
+2022-08-21,Education,941,2,COD,1,2022-08
+2022-08-22,Mobile & Tablet,1062,3,COD,3,2022-08
+2022-08-22,Home & Living,2029,8,E-Wallet,9,2022-08
+2022-08-22,Fashion,667,1,E-Wallet,1,2022-08
+2022-08-22,Electronics,1433,4,Credit Card,4,2022-08
+2022-08-22,Education,1068,4,Jazzwallet,4,2022-08
+2022-08-23,Mobile & Tablet,912,5,COD,4,2022-08
+2022-08-23,Home & Living,818,1,E-Wallet,1,2022-08
+2022-08-23,Fashion,645,2,COD,2,2022-08
+2022-08-23,Electronics,698,1,Credit Card,1,2022-08
+2022-08-23,Education,1630,3,COD,3,2022-08
+2022-08-24,Mobile & Tablet,2536,8,Credit Card,7,2022-08
+2022-08-24,Home & Living,1664,5,Credit Card,4,2022-08
+2022-08-24,Fashion,1475,3,E-Wallet,3,2022-08
+2022-08-24,Electronics,1374,10,E-Wallet,8,2022-08
+2022-08-24,Education,1392,3,COD,2,2022-08
+2022-08-25,Mobile & Tablet,2092,6,E-Wallet,4,2022-08
+2022-08-25,Home & Living,1239,6,E-Wallet,7,2022-08
+2022-08-25,Fashion,1481,5,COD,4,2022-08
+2022-08-25,Electronics,1044,9,COD,11,2022-08
+2022-08-25,Education,791,1,COD,1,2022-08
+2022-08-26,Mobile & Tablet,2737,5,Jazzwallet,4,2022-08
+2022-08-26,Home & Living,1334,7,Credit Card,5,2022-08
+2022-08-26,Fashion,1312,8,COD,9,2022-08
+2022-08-26,Electronics,1494,3,E-Wallet,3,2022-08
+2022-08-26,Education,1046,3,COD,2,2022-08
+2022-08-27,Mobile & Tablet,1961,9,E-Wallet,11,2022-08
+2022-08-27,Home & Living,1226,3,Jazzwallet,2,2022-08
+2022-08-27,Fashion,1394,5,Credit Card,5,2022-08
+2022-08-27,Electronics,1552,5,COD,4,2022-08
+2022-08-27,Education,1336,2,E-Wallet,1,2022-08
+2022-08-28,Mobile & Tablet,2226,6,COD,6,2022-08
+2022-08-28,Home & Living,1513,12,Jazzwallet,12,2022-08
+2022-08-28,Fashion,1086,3,Credit Card,2,2022-08
+2022-08-28,Electronics,1527,4,Credit Card,3,2022-08
+2022-08-28,Education,1064,7,E-Wallet,5,2022-08
+2022-08-29,Mobile & Tablet,2036,5,Jazzwallet,5,2022-08
+2022-08-29,Home & Living,1325,13,Jazzwallet,11,2022-08
+2022-08-29,Fashion,736,4,Credit Card,4,2022-08
+2022-08-29,Electronics,1238,4,Credit Card,3,2022-08
+2022-08-29,Education,1277,8,Credit Card,7,2022-08
+2022-08-30,Mobile & Tablet,1662,4,E-Wallet,4,2022-08
+2022-08-30,Home & Living,1355,3,Credit Card,2,2022-08
+2022-08-30,Fashion,1516,6,Credit Card,5,2022-08
+2022-08-30,Electronics,1485,12,Credit Card,12,2022-08
+2022-08-30,Education,1156,3,Credit Card,2,2022-08
+2022-08-31,Mobile & Tablet,2287,8,Jazzwallet,5,2022-08
+2022-08-31,Home & Living,1444,12,COD,10,2022-08
+2022-08-31,Fashion,827,3,Credit Card,2,2022-08
+2022-08-31,Electronics,1598,12,COD,10,2022-08
+2022-08-31,Education,1301,3,Credit Card,2,2022-08
+2022-09-01,Mobile & Tablet,2101,4,Credit Card,4,2022-09
+2022-09-01,Home & Living,1166,5,Credit Card,5,2022-09
+2022-09-01,Fashion,904,5,COD,5,2022-09
+2022-09-01,Electronics,1213,4,E-Wallet,3,2022-09
+2022-09-01,Education,1020,4,Credit Card,3,2022-09
+2022-09-02,Mobile & Tablet,2201,5,E-Wallet,3,2022-09
+2022-09-02,Home & Living,1288,2,E-Wallet,1,2022-09
+2022-09-02,Fashion,717,1,Jazzwallet,1,2022-09
+2022-09-02,Electronics,1257,7,Credit Card,8,2022-09
+2022-09-02,Education,1194,8,Jazzwallet,10,2022-09
+2022-09-03,Mobile & Tablet,2549,12,COD,15,2022-09
+2022-09-03,Home & Living,1605,5,COD,3,2022-09
+2022-09-03,Fashion,768,4,Credit Card,3,2022-09
+2022-09-03,Electronics,1815,15,Credit Card,18,2022-09
+2022-09-03,Education,1139,4,Credit Card,3,2022-09
+2022-09-04,Mobile & Tablet,2005,5,E-Wallet,6,2022-09
+2022-09-04,Home & Living,1653,5,Credit Card,4,2022-09
+2022-09-04,Fashion,700,3,Credit Card,3,2022-09
+2022-09-04,Electronics,623,6,Credit Card,5,2022-09
+2022-09-04,Education,1720,4,Credit Card,4,2022-09
+2022-09-05,Mobile & Tablet,2009,5,Credit Card,3,2022-09
+2022-09-05,Home & Living,744,1,E-Wallet,1,2022-09
+2022-09-05,Fashion,554,1,E-Wallet,1,2022-09
+2022-09-05,Electronics,1400,3,Credit Card,3,2022-09
+2022-09-05,Education,1151,2,E-Wallet,1,2022-09
+2022-09-06,Mobile & Tablet,1597,8,COD,8,2022-09
+2022-09-06,Home & Living,1621,8,E-Wallet,10,2022-09
+2022-09-06,Fashion,1300,7,E-Wallet,8,2022-09
+2022-09-06,Electronics,1510,9,Credit Card,9,2022-09
+2022-09-06,Education,850,2,COD,2,2022-09
+2022-09-07,Mobile & Tablet,1761,5,Credit Card,6,2022-09
+2022-09-07,Home & Living,1482,4,COD,4,2022-09
+2022-09-07,Fashion,1891,16,COD,18,2022-09
+2022-09-07,Electronics,1153,5,Credit Card,5,2022-09
+2022-09-07,Education,701,6,Credit Card,6,2022-09
+2022-09-08,Mobile & Tablet,1780,8,Credit Card,6,2022-09
+2022-09-08,Home & Living,1145,8,Jazzwallet,6,2022-09
+2022-09-08,Fashion,1006,3,E-Wallet,2,2022-09
+2022-09-08,Electronics,1104,2,E-Wallet,1,2022-09
+2022-09-08,Education,1262,6,Credit Card,6,2022-09
+2022-09-09,Mobile & Tablet,1426,5,Credit Card,4,2022-09
+2022-09-09,Home & Living,866,6,Credit Card,5,2022-09
+2022-09-09,Fashion,1584,6,Credit Card,7,2022-09
+2022-09-09,Electronics,1422,6,Jazzwallet,5,2022-09
+2022-09-09,Education,1743,6,Credit Card,5,2022-09
+2022-09-10,Mobile & Tablet,2181,6,COD,5,2022-09
+2022-09-10,Home & Living,1263,2,E-Wallet,1,2022-09
+2022-09-10,Fashion,1238,7,E-Wallet,6,2022-09
+2022-09-10,Electronics,1496,3,COD,3,2022-09
+2022-09-10,Education,601,1,E-Wallet,1,2022-09
+2022-09-11,Mobile & Tablet,2629,6,Credit Card,4,2022-09
+2022-09-11,Home & Living,1142,3,COD,2,2022-09
+2022-09-11,Fashion,977,1,Credit Card,1,2022-09
+2022-09-11,Electronics,1077,2,Credit Card,2,2022-09
+2022-09-11,Education,1110,2,Credit Card,1,2022-09
+2022-09-12,Mobile & Tablet,581,5,Credit Card,4,2022-09
+2022-09-12,Home & Living,1456,6,E-Wallet,6,2022-09
+2022-09-12,Fashion,1751,5,Jazzwallet,4,2022-09
+2022-09-12,Electronics,1561,9,Jazzwallet,8,2022-09
+2022-09-12,Education,815,2,Credit Card,1,2022-09
+2022-09-13,Mobile & Tablet,1049,3,E-Wallet,2,2022-09
+2022-09-13,Home & Living,1482,8,Credit Card,7,2022-09
+2022-09-13,Fashion,1359,4,Jazzwallet,4,2022-09
+2022-09-13,Electronics,1074,4,COD,3,2022-09
+2022-09-13,Education,921,5,Credit Card,5,2022-09
+2022-09-14,Mobile & Tablet,2274,4,COD,4,2022-09
+2022-09-14,Home & Living,1062,9,Credit Card,10,2022-09
+2022-09-14,Fashion,1496,13,COD,10,2022-09
+2022-09-14,Electronics,1445,12,Credit Card,13,2022-09
+2022-09-14,Education,1382,6,COD,5,2022-09
+2022-09-15,Mobile & Tablet,2501,22,Credit Card,24,2022-09
+2022-09-15,Home & Living,1673,6,COD,7,2022-09
+2022-09-15,Fashion,1247,3,Credit Card,3,2022-09
+2022-09-15,Electronics,1057,3,E-Wallet,3,2022-09
+2022-09-15,Education,803,6,E-Wallet,6,2022-09
+2022-09-16,Mobile & Tablet,1235,3,Credit Card,2,2022-09
+2022-09-16,Home & Living,1336,5,Credit Card,5,2022-09
+2022-09-16,Fashion,1287,11,E-Wallet,9,2022-09
+2022-09-16,Electronics,450,1,Jazzwallet,1,2022-09
+2022-09-16,Education,926,2,Credit Card,1,2022-09
+2022-09-17,Mobile & Tablet,3159,11,E-Wallet,10,2022-09
+2022-09-17,Home & Living,1563,3,Jazzwallet,2,2022-09
+2022-09-17,Fashion,857,5,E-Wallet,3,2022-09
+2022-09-17,Electronics,1249,3,Credit Card,2,2022-09
+2022-09-17,Education,1018,3,Credit Card,2,2022-09
+2022-09-18,Mobile & Tablet,1794,4,Credit Card,2,2022-09
+2022-09-18,Home & Living,564,1,Credit Card,1,2022-09
+2022-09-18,Fashion,1084,3,Credit Card,3,2022-09
+2022-09-18,Electronics,1017,8,Jazzwallet,5,2022-09
+2022-09-18,Education,1623,13,Jazzwallet,12,2022-09
+2022-09-19,Mobile & Tablet,1872,10,Credit Card,10,2022-09
+2022-09-19,Home & Living,533,2,COD,2,2022-09
+2022-09-19,Fashion,1482,3,Jazzwallet,3,2022-09
+2022-09-19,Electronics,1300,3,Credit Card,3,2022-09
+2022-09-19,Education,1565,5,Credit Card,4,2022-09
+2022-09-20,Mobile & Tablet,1514,3,Jazzwallet,2,2022-09
+2022-09-20,Home & Living,1544,3,Credit Card,3,2022-09
+2022-09-20,Fashion,817,4,Credit Card,4,2022-09
+2022-09-20,Electronics,949,5,E-Wallet,5,2022-09
+2022-09-20,Education,1607,4,Jazzwallet,3,2022-09
+2022-09-21,Mobile & Tablet,2061,11,Credit Card,7,2022-09
+2022-09-21,Home & Living,1478,3,E-Wallet,3,2022-09
+2022-09-21,Fashion,1427,3,COD,2,2022-09
+2022-09-21,Electronics,1515,4,E-Wallet,4,2022-09
+2022-09-21,Education,1032,2,Credit Card,1,2022-09
+2022-09-22,Mobile & Tablet,1902,17,COD,21,2022-09
+2022-09-22,Home & Living,1783,7,Credit Card,6,2022-09
+2022-09-22,Fashion,1060,4,Credit Card,5,2022-09
+2022-09-22,Electronics,1089,5,Credit Card,3,2022-09
+2022-09-22,Education,1178,2,Credit Card,1,2022-09
+2022-09-23,Mobile & Tablet,1696,15,Credit Card,18,2022-09
+2022-09-23,Home & Living,1610,5,E-Wallet,4,2022-09
+2022-09-23,Fashion,1060,5,E-Wallet,5,2022-09
+2022-09-23,Electronics,1401,3,COD,2,2022-09
+2022-09-23,Education,1137,5,COD,6,2022-09
+2022-09-24,Mobile & Tablet,2357,8,Credit Card,7,2022-09
+2022-09-24,Home & Living,987,3,Credit Card,2,2022-09
+2022-09-24,Fashion,1636,15,E-Wallet,12,2022-09
+2022-09-24,Electronics,1022,6,COD,5,2022-09
+2022-09-24,Education,1092,3,Credit Card,3,2022-09
+2022-09-25,Mobile & Tablet,3542,13,E-Wallet,10,2022-09
+2022-09-25,Home & Living,882,1,Credit Card,1,2022-09
+2022-09-25,Fashion,687,1,E-Wallet,1,2022-09
+2022-09-25,Electronics,1597,6,COD,5,2022-09
+2022-09-25,Education,983,3,Credit Card,3,2022-09
+2022-09-26,Mobile & Tablet,2174,6,Credit Card,7,2022-09
+2022-09-26,Home & Living,1070,7,Credit Card,8,2022-09
+2022-09-26,Fashion,418,1,COD,1,2022-09
+2022-09-26,Electronics,1015,3,COD,2,2022-09
+2022-09-26,Education,1178,2,Jazzwallet,1,2022-09
+2022-09-27,Mobile & Tablet,2676,9,E-Wallet,7,2022-09
+2022-09-27,Home & Living,1280,4,E-Wallet,3,2022-09
+2022-09-27,Fashion,1654,6,Credit Card,7,2022-09
+2022-09-27,Electronics,857,5,Credit Card,5,2022-09
+2022-09-27,Education,982,8,Credit Card,6,2022-09
+2022-09-28,Mobile & Tablet,1709,12,E-Wallet,8,2022-09
+2022-09-28,Home & Living,852,6,Credit Card,4,2022-09
+2022-09-28,Fashion,612,2,Jazzwallet,1,2022-09
+2022-09-28,Electronics,1080,5,E-Wallet,5,2022-09
+2022-09-28,Education,1159,4,COD,3,2022-09
+2022-09-29,Mobile & Tablet,2043,5,COD,4,2022-09
+2022-09-29,Home & Living,1142,2,Credit Card,1,2022-09
+2022-09-29,Fashion,1537,4,E-Wallet,4,2022-09
+2022-09-29,Electronics,1444,8,E-Wallet,8,2022-09
+2022-09-29,Education,1193,4,E-Wallet,3,2022-09
+2022-09-30,Mobile & Tablet,794,5,Credit Card,4,2022-09
+2022-09-30,Home & Living,1085,3,Credit Card,3,2022-09
+2022-09-30,Fashion,823,3,Credit Card,3,2022-09
+2022-09-30,Electronics,426,2,Jazzwallet,1,2022-09
+2022-09-30,Education,1170,2,E-Wallet,1,2022-09
+2022-10-01,Mobile & Tablet,2654,14,COD,15,2022-10
+2022-10-01,Home & Living,1264,5,Credit Card,6,2022-10
+2022-10-01,Fashion,1356,3,COD,2,2022-10
+2022-10-01,Electronics,1894,16,COD,20,2022-10
+2022-10-01,Education,1325,2,E-Wallet,1,2022-10
+2022-10-02,Mobile & Tablet,1954,7,COD,7,2022-10
+2022-10-02,Home & Living,1146,7,COD,5,2022-10
+2022-10-02,Fashion,1312,3,Credit Card,2,2022-10
+2022-10-02,Electronics,1324,3,Credit Card,2,2022-10
+2022-10-02,Education,1263,3,Credit Card,3,2022-10
+2022-10-03,Mobile & Tablet,740,1,Credit Card,1,2022-10
+2022-10-03,Home & Living,999,5,COD,5,2022-10
+2022-10-03,Fashion,1051,4,E-Wallet,2,2022-10
+2022-10-03,Electronics,1549,8,E-Wallet,8,2022-10
+2022-10-03,Education,1669,4,COD,3,2022-10
+2022-10-04,Mobile & Tablet,1764,3,E-Wallet,2,2022-10
+2022-10-04,Home & Living,980,2,Credit Card,2,2022-10
+2022-10-04,Fashion,1905,7,E-Wallet,6,2022-10
+2022-10-04,Electronics,1251,4,Credit Card,3,2022-10
+2022-10-04,Education,993,2,Jazzwallet,1,2022-10
+2022-10-05,Mobile & Tablet,1788,9,Jazzwallet,10,2022-10
+2022-10-05,Home & Living,1230,7,Credit Card,7,2022-10
+2022-10-05,Fashion,1774,15,Credit Card,16,2022-10
+2022-10-05,Electronics,1473,6,Jazzwallet,5,2022-10
+2022-10-05,Education,1750,12,COD,9,2022-10
+2022-10-06,Mobile & Tablet,1916,18,Jazzwallet,22,2022-10
+2022-10-06,Home & Living,1633,9,Jazzwallet,8,2022-10
+2022-10-06,Fashion,942,2,Jazzwallet,1,2022-10
+2022-10-06,Electronics,906,7,Credit Card,8,2022-10
+2022-10-06,Education,788,7,E-Wallet,6,2022-10
+2022-10-07,Mobile & Tablet,2017,4,Credit Card,2,2022-10
+2022-10-07,Home & Living,790,3,Credit Card,2,2022-10
+2022-10-07,Fashion,878,2,E-Wallet,1,2022-10
+2022-10-07,Electronics,794,1,COD,1,2022-10
+2022-10-07,Education,1606,9,Credit Card,8,2022-10
+2022-10-08,Mobile & Tablet,2628,5,Jazzwallet,6,2022-10
+2022-10-08,Home & Living,1473,2,COD,2,2022-10
+2022-10-08,Fashion,1590,7,Credit Card,6,2022-10
+2022-10-08,Electronics,1777,3,Credit Card,2,2022-10
+2022-10-08,Education,457,4,COD,3,2022-10
+2022-10-09,Mobile & Tablet,1809,3,COD,3,2022-10
+2022-10-09,Home & Living,492,1,Jazzwallet,1,2022-10
+2022-10-09,Fashion,1170,3,Credit Card,2,2022-10
+2022-10-09,Electronics,1345,7,COD,6,2022-10
+2022-10-09,Education,1457,4,COD,3,2022-10
+2022-10-10,Mobile & Tablet,1999,13,COD,12,2022-10
+2022-10-10,Home & Living,995,2,Credit Card,2,2022-10
+2022-10-10,Fashion,517,2,Jazzwallet,2,2022-10
+2022-10-10,Electronics,1197,6,Credit Card,4,2022-10
+2022-10-10,Education,1072,10,Credit Card,9,2022-10
+2022-10-11,Mobile & Tablet,3578,8,E-Wallet,7,2022-10
+2022-10-11,Home & Living,1336,4,Jazzwallet,3,2022-10
+2022-10-11,Fashion,990,4,Credit Card,4,2022-10
+2022-10-11,Electronics,1090,3,E-Wallet,2,2022-10
+2022-10-11,Education,845,5,Jazzwallet,5,2022-10
+2022-10-12,Mobile & Tablet,2503,9,Credit Card,8,2022-10
+2022-10-12,Home & Living,711,4,COD,4,2022-10
+2022-10-12,Fashion,1033,5,E-Wallet,3,2022-10
+2022-10-12,Electronics,698,3,COD,3,2022-10
+2022-10-12,Education,1326,6,COD,6,2022-10
+2022-10-13,Mobile & Tablet,1476,8,Jazzwallet,7,2022-10
+2022-10-13,Home & Living,1394,8,E-Wallet,7,2022-10
+2022-10-13,Fashion,1515,4,E-Wallet,4,2022-10
+2022-10-13,Electronics,1294,8,Credit Card,9,2022-10
+2022-10-13,Education,498,1,Credit Card,1,2022-10
+2022-10-14,Mobile & Tablet,2674,8,Credit Card,5,2022-10
+2022-10-14,Home & Living,1655,4,Jazzwallet,4,2022-10
+2022-10-14,Fashion,1236,8,E-Wallet,7,2022-10
+2022-10-14,Electronics,1026,2,Credit Card,2,2022-10
+2022-10-14,Education,1202,2,Credit Card,2,2022-10
+2022-10-15,Mobile & Tablet,3037,6,Credit Card,5,2022-10
+2022-10-15,Home & Living,769,2,E-Wallet,2,2022-10
+2022-10-15,Fashion,1644,4,Jazzwallet,4,2022-10
+2022-10-15,Electronics,502,1,Jazzwallet,1,2022-10
+2022-10-15,Education,925,2,COD,2,2022-10
+2022-10-16,Mobile & Tablet,1761,4,Credit Card,4,2022-10
+2022-10-16,Home & Living,751,1,Credit Card,1,2022-10
+2022-10-16,Fashion,559,2,Credit Card,1,2022-10
+2022-10-16,Electronics,1322,3,COD,3,2022-10
+2022-10-16,Education,1503,6,COD,5,2022-10
+2022-10-17,Mobile & Tablet,2697,17,Jazzwallet,18,2022-10
+2022-10-17,Home & Living,787,2,Credit Card,2,2022-10
+2022-10-17,Fashion,1367,3,COD,3,2022-10
+2022-10-17,Electronics,1504,4,COD,3,2022-10
+2022-10-17,Education,1385,11,Credit Card,11,2022-10
+2022-10-18,Mobile & Tablet,2119,9,E-Wallet,7,2022-10
+2022-10-18,Home & Living,1170,3,COD,2,2022-10
+2022-10-18,Fashion,1187,2,Credit Card,1,2022-10
+2022-10-18,Electronics,625,4,E-Wallet,3,2022-10
+2022-10-18,Education,1439,4,Credit Card,3,2022-10
+2022-10-19,Mobile & Tablet,1541,4,Credit Card,4,2022-10
+2022-10-19,Home & Living,1517,3,Credit Card,3,2022-10
+2022-10-19,Fashion,1194,5,E-Wallet,3,2022-10
+2022-10-19,Electronics,1142,3,Credit Card,3,2022-10
+2022-10-19,Education,1650,3,E-Wallet,2,2022-10
+2022-10-20,Mobile & Tablet,1204,3,Credit Card,3,2022-10
+2022-10-20,Home & Living,1395,10,Credit Card,9,2022-10
+2022-10-20,Fashion,1500,8,Credit Card,9,2022-10
+2022-10-20,Electronics,538,2,Credit Card,1,2022-10
+2022-10-20,Education,1460,3,Credit Card,3,2022-10
+2022-10-21,Mobile & Tablet,2297,8,Credit Card,6,2022-10
+2022-10-21,Home & Living,741,3,COD,3,2022-10
+2022-10-21,Fashion,973,7,Jazzwallet,5,2022-10
+2022-10-21,Electronics,1352,3,E-Wallet,3,2022-10
+2022-10-21,Education,201,1,Credit Card,1,2022-10
+2022-10-22,Mobile & Tablet,3166,6,Jazzwallet,7,2022-10
+2022-10-22,Home & Living,1075,10,Jazzwallet,11,2022-10
+2022-10-22,Fashion,1121,4,Credit Card,3,2022-10
+2022-10-22,Electronics,1475,13,Credit Card,15,2022-10
+2022-10-22,Education,1247,5,COD,4,2022-10
+2022-10-23,Mobile & Tablet,1931,7,Credit Card,8,2022-10
+2022-10-23,Home & Living,1701,7,Credit Card,8,2022-10
+2022-10-23,Fashion,1502,3,Credit Card,3,2022-10
+2022-10-23,Electronics,1300,4,E-Wallet,5,2022-10
+2022-10-23,Education,1090,5,Credit Card,3,2022-10
+2022-10-24,Mobile & Tablet,2475,6,Credit Card,5,2022-10
+2022-10-24,Home & Living,994,2,E-Wallet,2,2022-10
+2022-10-24,Fashion,1722,3,E-Wallet,2,2022-10
+2022-10-24,Electronics,1205,3,Credit Card,2,2022-10
+2022-10-24,Education,1097,4,Credit Card,3,2022-10
+2022-10-25,Mobile & Tablet,1700,3,Credit Card,3,2022-10
+2022-10-25,Home & Living,776,3,E-Wallet,2,2022-10
+2022-10-25,Fashion,1855,3,Jazzwallet,2,2022-10
+2022-10-25,Electronics,1654,11,E-Wallet,10,2022-10
+2022-10-25,Education,1515,7,Credit Card,5,2022-10
+2022-10-26,Mobile & Tablet,2100,4,Credit Card,4,2022-10
+2022-10-26,Home & Living,1213,7,Jazzwallet,7,2022-10
+2022-10-26,Fashion,1547,5,COD,5,2022-10
+2022-10-26,Electronics,1330,3,E-Wallet,3,2022-10
+2022-10-26,Education,1320,5,Jazzwallet,3,2022-10
+2022-10-27,Mobile & Tablet,1876,12,COD,10,2022-10
+2022-10-27,Home & Living,474,0,Credit Card,1,2022-10
+2022-10-27,Fashion,964,2,E-Wallet,1,2022-10
+2022-10-27,Electronics,1538,3,COD,2,2022-10
+2022-10-27,Education,1647,5,E-Wallet,5,2022-10
+2022-10-28,Mobile & Tablet,2610,9,COD,10,2022-10
+2022-10-28,Home & Living,257,0,Credit Card,1,2022-10
+2022-10-28,Fashion,1441,11,Credit Card,10,2022-10
+2022-10-28,Electronics,993,4,COD,4,2022-10
+2022-10-28,Education,643,1,Jazzwallet,1,2022-10
+2022-10-29,Mobile & Tablet,1676,3,Credit Card,2,2022-10
+2022-10-29,Home & Living,672,4,Credit Card,3,2022-10
+2022-10-29,Fashion,1673,4,Credit Card,5,2022-10
+2022-10-29,Electronics,1118,3,Credit Card,3,2022-10
+2022-10-29,Education,1700,3,Jazzwallet,2,2022-10
+2022-10-30,Mobile & Tablet,2413,6,E-Wallet,6,2022-10
+2022-10-30,Home & Living,1013,5,COD,6,2022-10
+2022-10-30,Fashion,778,4,COD,3,2022-10
+2022-10-30,Electronics,1147,4,Credit Card,3,2022-10
+2022-10-30,Education,1458,9,E-Wallet,6,2022-10
+2022-10-31,Mobile & Tablet,1905,8,Jazzwallet,10,2022-10
+2022-10-31,Home & Living,755,1,Credit Card,1,2022-10
+2022-10-31,Fashion,1544,6,E-Wallet,5,2022-10
+2022-10-31,Electronics,1368,7,COD,8,2022-10
+2022-10-31,Education,1192,2,Credit Card,1,2022-10
+2022-11-01,Mobile & Tablet,1171,2,E-Wallet,2,2022-11
+2022-11-01,Home & Living,1034,8,Credit Card,6,2022-11
+2022-11-01,Fashion,680,1,Credit Card,1,2022-11
+2022-11-01,Electronics,1026,3,Credit Card,2,2022-11
+2022-11-01,Education,1094,3,COD,3,2022-11
+2022-11-02,Mobile & Tablet,2162,5,Jazzwallet,5,2022-11
+2022-11-02,Home & Living,842,4,Jazzwallet,3,2022-11
+2022-11-02,Fashion,679,1,E-Wallet,1,2022-11
+2022-11-02,Electronics,1166,10,E-Wallet,7,2022-11
+2022-11-02,Education,1760,5,Credit Card,5,2022-11
+2022-11-03,Mobile & Tablet,2131,6,E-Wallet,5,2022-11
+2022-11-03,Home & Living,667,1,Credit Card,1,2022-11
+2022-11-03,Fashion,1337,6,Credit Card,7,2022-11
+2022-11-03,Electronics,1163,8,Credit Card,6,2022-11
+2022-11-03,Education,1244,7,Jazzwallet,7,2022-11
+2022-11-04,Mobile & Tablet,1667,3,COD,3,2022-11
+2022-11-04,Home & Living,907,4,COD,3,2022-11
+2022-11-04,Fashion,1330,3,COD,2,2022-11
+2022-11-04,Electronics,1304,3,E-Wallet,3,2022-11
+2022-11-04,Education,1544,4,Credit Card,3,2022-11
+2022-11-05,Mobile & Tablet,2369,14,Credit Card,16,2022-11
+2022-11-05,Home & Living,1262,4,Credit Card,4,2022-11
+2022-11-05,Fashion,989,3,E-Wallet,3,2022-11
+2022-11-05,Electronics,1477,4,Jazzwallet,3,2022-11
+2022-11-05,Education,1007,5,E-Wallet,6,2022-11
+2022-11-06,Mobile & Tablet,2176,19,Credit Card,20,2022-11
+2022-11-06,Home & Living,1481,3,E-Wallet,2,2022-11
+2022-11-06,Fashion,852,8,Credit Card,6,2022-11
+2022-11-06,Electronics,774,6,COD,4,2022-11
+2022-11-06,Education,1109,2,E-Wallet,2,2022-11
+2022-11-07,Mobile & Tablet,2387,4,Credit Card,4,2022-11
+2022-11-07,Home & Living,1206,4,Credit Card,3,2022-11
+2022-11-07,Fashion,1635,4,Credit Card,4,2022-11
+2022-11-07,Electronics,1187,4,COD,5,2022-11
+2022-11-07,Education,1273,9,Credit Card,6,2022-11
+2022-11-08,Mobile & Tablet,2480,8,COD,6,2022-11
+2022-11-08,Home & Living,988,3,Credit Card,2,2022-11
+2022-11-08,Fashion,1378,3,E-Wallet,2,2022-11
+2022-11-08,Electronics,1114,9,E-Wallet,8,2022-11
+2022-11-08,Education,1022,2,Credit Card,1,2022-11
+2022-11-09,Mobile & Tablet,2571,10,COD,7,2022-11
+2022-11-09,Home & Living,867,2,Credit Card,1,2022-11
+2022-11-09,Fashion,1241,3,COD,2,2022-11
+2022-11-09,Electronics,1220,9,E-Wallet,9,2022-11
+2022-11-09,Education,1365,10,Credit Card,12,2022-11
+2022-11-10,Mobile & Tablet,1728,8,Credit Card,8,2022-11
+2022-11-10,Home & Living,1031,8,E-Wallet,10,2022-11
+2022-11-10,Fashion,1081,8,Credit Card,5,2022-11
+2022-11-10,Electronics,102,0,Credit Card,1,2022-11
+2022-11-10,Education,1047,6,Jazzwallet,5,2022-11
+2022-11-11,Mobile & Tablet,2067,10,COD,7,2022-11
+2022-11-11,Home & Living,1237,10,Credit Card,9,2022-11
+2022-11-11,Fashion,1289,2,Jazzwallet,1,2022-11
+2022-11-11,Electronics,1776,3,COD,2,2022-11
+2022-11-11,Education,1240,4,Jazzwallet,4,2022-11
+2022-11-12,Mobile & Tablet,2710,8,COD,6,2022-11
+2022-11-12,Home & Living,1172,2,E-Wallet,2,2022-11
+2022-11-12,Fashion,1065,2,Jazzwallet,1,2022-11
+2022-11-12,Electronics,1513,4,COD,3,2022-11
+2022-11-12,Education,1541,3,Credit Card,2,2022-11
+2022-11-13,Mobile & Tablet,1180,2,Credit Card,1,2022-11
+2022-11-13,Home & Living,944,4,COD,3,2022-11
+2022-11-13,Fashion,565,1,E-Wallet,1,2022-11
+2022-11-13,Electronics,1084,3,Jazzwallet,3,2022-11
+2022-11-13,Education,535,1,Credit Card,1,2022-11
+2022-11-14,Mobile & Tablet,2471,10,Jazzwallet,9,2022-11
+2022-11-14,Home & Living,942,2,Jazzwallet,2,2022-11
+2022-11-14,Fashion,1112,2,Credit Card,2,2022-11
+2022-11-14,Electronics,1219,3,Jazzwallet,3,2022-11
+2022-11-14,Education,1549,4,Credit Card,3,2022-11
+2022-11-15,Mobile & Tablet,2394,11,Jazzwallet,10,2022-11
+2022-11-15,Home & Living,1576,7,COD,8,2022-11
+2022-11-15,Fashion,1058,3,Jazzwallet,3,2022-11
+2022-11-15,Electronics,833,7,COD,5,2022-11
+2022-11-15,Education,907,5,Jazzwallet,6,2022-11
+2022-11-16,Mobile & Tablet,1835,3,Credit Card,3,2022-11
+2022-11-16,Home & Living,1240,3,Credit Card,3,2022-11
+2022-11-16,Fashion,1508,8,COD,8,2022-11
+2022-11-16,Electronics,1798,4,Credit Card,3,2022-11
+2022-11-16,Education,1309,4,COD,4,2022-11
+2022-11-17,Mobile & Tablet,1955,8,Credit Card,7,2022-11
+2022-11-17,Home & Living,891,5,Credit Card,5,2022-11
+2022-11-17,Fashion,1752,5,Credit Card,3,2022-11
+2022-11-17,Electronics,1604,4,Credit Card,3,2022-11
+2022-11-17,Education,1529,5,E-Wallet,3,2022-11
+2022-11-18,Mobile & Tablet,1948,6,E-Wallet,6,2022-11
+2022-11-18,Home & Living,994,3,Credit Card,3,2022-11
+2022-11-18,Fashion,1916,4,COD,4,2022-11
+2022-11-18,Electronics,1249,3,Credit Card,3,2022-11
+2022-11-18,Education,1623,4,Credit Card,3,2022-11
+2022-11-19,Mobile & Tablet,1488,6,Jazzwallet,5,2022-11
+2022-11-19,Home & Living,1226,4,COD,5,2022-11
+2022-11-19,Fashion,812,2,Jazzwallet,2,2022-11
+2022-11-19,Electronics,1572,3,Jazzwallet,3,2022-11
+2022-11-19,Education,1217,3,Credit Card,2,2022-11
+2022-11-20,Mobile & Tablet,1895,5,Jazzwallet,4,2022-11
+2022-11-20,Home & Living,1591,6,Credit Card,6,2022-11
+2022-11-20,Fashion,1313,4,Credit Card,5,2022-11
+2022-11-20,Electronics,1403,3,Jazzwallet,3,2022-11
+2022-11-20,Education,1788,8,Credit Card,8,2022-11
+2022-11-21,Mobile & Tablet,1598,14,COD,12,2022-11
+2022-11-21,Home & Living,1119,2,Credit Card,1,2022-11
+2022-11-21,Fashion,1456,4,Jazzwallet,3,2022-11
+2022-11-21,Electronics,2320,4,Credit Card,3,2022-11
+2022-11-21,Education,846,1,COD,1,2022-11
+2022-11-22,Mobile & Tablet,1501,3,Credit Card,2,2022-11
+2022-11-22,Home & Living,1775,8,Credit Card,5,2022-11
+2022-11-22,Fashion,1464,9,COD,8,2022-11
+2022-11-22,Electronics,1411,3,E-Wallet,3,2022-11
+2022-11-22,Education,1175,3,E-Wallet,3,2022-11
+2022-11-23,Mobile & Tablet,3303,15,Credit Card,13,2022-11
+2022-11-23,Home & Living,1451,4,Credit Card,2,2022-11
+2022-11-23,Fashion,1273,10,E-Wallet,12,2022-11
+2022-11-23,Electronics,1465,3,Credit Card,3,2022-11
+2022-11-23,Education,1417,2,E-Wallet,2,2022-11
+2022-11-24,Mobile & Tablet,2065,8,COD,8,2022-11
+2022-11-24,Home & Living,1311,7,E-Wallet,6,2022-11
+2022-11-24,Fashion,1387,6,Credit Card,4,2022-11
+2022-11-24,Electronics,1742,3,E-Wallet,2,2022-11
+2022-11-24,Education,1012,2,E-Wallet,1,2022-11
+2022-11-25,Mobile & Tablet,1930,11,E-Wallet,9,2022-11
+2022-11-25,Home & Living,1491,12,E-Wallet,13,2022-11
+2022-11-25,Fashion,1043,7,Credit Card,8,2022-11
+2022-11-25,Electronics,1207,6,Credit Card,4,2022-11
+2022-11-25,Education,1107,4,Credit Card,4,2022-11
+2022-11-26,Mobile & Tablet,1872,5,Credit Card,6,2022-11
+2022-11-26,Home & Living,1058,3,Jazzwallet,3,2022-11
+2022-11-26,Fashion,886,3,COD,2,2022-11
+2022-11-26,Electronics,1771,3,E-Wallet,3,2022-11
+2022-11-26,Education,1434,7,COD,7,2022-11
+2022-11-27,Mobile & Tablet,2286,7,Credit Card,6,2022-11
+2022-11-27,Home & Living,1154,3,Credit Card,3,2022-11
+2022-11-27,Fashion,1055,4,E-Wallet,3,2022-11
+2022-11-27,Electronics,1077,2,Credit Card,2,2022-11
+2022-11-27,Education,1199,2,Credit Card,2,2022-11
+2022-11-28,Mobile & Tablet,1687,7,Credit Card,7,2022-11
+2022-11-28,Home & Living,1882,13,Credit Card,9,2022-11
+2022-11-28,Fashion,1155,2,E-Wallet,2,2022-11
+2022-11-28,Electronics,1103,2,E-Wallet,2,2022-11
+2022-11-28,Education,668,1,COD,1,2022-11
+2022-11-29,Mobile & Tablet,2978,21,Credit Card,20,2022-11
+2022-11-29,Home & Living,1294,3,Jazzwallet,2,2022-11
+2022-11-29,Fashion,1432,5,Credit Card,5,2022-11
+2022-11-29,Electronics,1195,2,Jazzwallet,2,2022-11
+2022-11-29,Education,988,2,Jazzwallet,1,2022-11
+2022-11-30,Mobile & Tablet,1170,9,Jazzwallet,9,2022-11
+2022-11-30,Home & Living,1236,2,E-Wallet,1,2022-11
+2022-11-30,Fashion,1357,10,E-Wallet,11,2022-11
+2022-11-30,Electronics,1078,6,E-Wallet,4,2022-11
+2022-11-30,Education,1249,2,Credit Card,1,2022-11
+2022-12-01,Mobile & Tablet,2287,20,Credit Card,22,2022-12
+2022-12-01,Home & Living,1462,4,Credit Card,4,2022-12
+2022-12-01,Fashion,1047,5,E-Wallet,4,2022-12
+2022-12-01,Electronics,1580,5,E-Wallet,3,2022-12
+2022-12-01,Education,1155,2,Credit Card,1,2022-12
+2022-12-02,Mobile & Tablet,1873,6,COD,4,2022-12
+2022-12-02,Home & Living,1185,4,COD,4,2022-12
+2022-12-02,Fashion,568,1,Jazzwallet,1,2022-12
+2022-12-02,Electronics,1298,2,Credit Card,1,2022-12
+2022-12-02,Education,453,1,Credit Card,1,2022-12
+2022-12-03,Mobile & Tablet,2140,8,Credit Card,8,2022-12
+2022-12-03,Home & Living,1543,4,Credit Card,4,2022-12
+2022-12-03,Fashion,458,2,COD,2,2022-12
+2022-12-03,Electronics,1592,6,Jazzwallet,7,2022-12
+2022-12-03,Education,1278,3,Jazzwallet,2,2022-12
+2022-12-04,Mobile & Tablet,1732,16,Credit Card,19,2022-12
+2022-12-04,Home & Living,1291,8,Credit Card,9,2022-12
+2022-12-04,Fashion,976,2,Credit Card,2,2022-12
+2022-12-04,Electronics,535,1,COD,1,2022-12
+2022-12-04,Education,1045,7,E-Wallet,5,2022-12
+2022-12-05,Mobile & Tablet,2181,5,Credit Card,5,2022-12
+2022-12-05,Home & Living,1272,2,Credit Card,2,2022-12
+2022-12-05,Fashion,591,1,Credit Card,1,2022-12
+2022-12-05,Electronics,1136,8,Credit Card,6,2022-12
+2022-12-05,Education,985,2,Jazzwallet,2,2022-12
+2022-12-06,Mobile & Tablet,2085,11,Credit Card,10,2022-12
+2022-12-06,Home & Living,972,2,Credit Card,1,2022-12
+2022-12-06,Fashion,849,4,COD,5,2022-12
+2022-12-06,Electronics,1067,2,Credit Card,2,2022-12
+2022-12-06,Education,1133,4,E-Wallet,4,2022-12
+2022-12-07,Mobile & Tablet,1954,5,Credit Card,3,2022-12
+2022-12-07,Home & Living,928,3,COD,2,2022-12
+2022-12-07,Fashion,1776,11,Credit Card,10,2022-12
+2022-12-07,Electronics,1497,6,COD,4,2022-12
+2022-12-07,Education,1140,2,E-Wallet,1,2022-12
+2022-12-08,Mobile & Tablet,2563,13,Credit Card,13,2022-12
+2022-12-08,Home & Living,772,4,Jazzwallet,3,2022-12
+2022-12-08,Fashion,1225,3,Credit Card,3,2022-12
+2022-12-08,Electronics,1655,6,COD,5,2022-12
+2022-12-08,Education,1027,2,Credit Card,2,2022-12
+2022-12-09,Mobile & Tablet,2528,6,Credit Card,4,2022-12
+2022-12-09,Home & Living,721,1,Credit Card,1,2022-12
+2022-12-09,Fashion,1585,5,Credit Card,5,2022-12
+2022-12-09,Electronics,1223,7,E-Wallet,6,2022-12
+2022-12-09,Education,670,1,Jazzwallet,1,2022-12
+2022-12-10,Mobile & Tablet,1242,2,Credit Card,1,2022-12
+2022-12-10,Home & Living,1146,9,COD,8,2022-12
+2022-12-10,Fashion,544,2,Credit Card,1,2022-12
+2022-12-10,Electronics,1026,4,E-Wallet,5,2022-12
+2022-12-10,Education,694,4,Credit Card,3,2022-12
+2022-12-11,Mobile & Tablet,1985,7,Credit Card,5,2022-12
+2022-12-11,Home & Living,433,1,Credit Card,1,2022-12
+2022-12-11,Fashion,659,1,COD,1,2022-12
+2022-12-11,Electronics,1075,3,COD,2,2022-12
+2022-12-11,Education,1703,3,Jazzwallet,3,2022-12
+2022-12-12,Mobile & Tablet,2219,5,Credit Card,3,2022-12
+2022-12-12,Home & Living,1189,5,COD,5,2022-12
+2022-12-12,Fashion,1136,3,Credit Card,3,2022-12
+2022-12-12,Electronics,1590,7,COD,8,2022-12
+2022-12-12,Education,1275,2,Jazzwallet,2,2022-12
+2022-12-13,Mobile & Tablet,1034,2,Credit Card,1,2022-12
+2022-12-13,Home & Living,948,2,Credit Card,2,2022-12
+2022-12-13,Fashion,838,2,COD,1,2022-12
+2022-12-13,Electronics,848,3,Credit Card,3,2022-12
+2022-12-13,Education,2065,19,Credit Card,14,2022-12
+2022-12-14,Mobile & Tablet,2261,17,E-Wallet,12,2022-12
+2022-12-14,Home & Living,1649,5,COD,4,2022-12
+2022-12-14,Fashion,1351,3,Credit Card,2,2022-12
+2022-12-14,Electronics,1743,4,Credit Card,4,2022-12
+2022-12-14,Education,431,1,COD,1,2022-12
+2022-12-15,Mobile & Tablet,2116,6,E-Wallet,5,2022-12
+2022-12-15,Home & Living,1593,9,Jazzwallet,10,2022-12
+2022-12-15,Fashion,884,7,Credit Card,5,2022-12
+2022-12-15,Electronics,891,1,Jazzwallet,1,2022-12
+2022-12-15,Education,680,1,Credit Card,1,2022-12
+2022-12-16,Mobile & Tablet,2821,25,E-Wallet,25,2022-12
+2022-12-16,Home & Living,1256,8,Credit Card,6,2022-12
+2022-12-16,Fashion,1049,4,Credit Card,5,2022-12
+2022-12-16,Electronics,1651,4,E-Wallet,5,2022-12
+2022-12-16,Education,1342,3,Credit Card,2,2022-12
+2022-12-17,Mobile & Tablet,1359,13,Credit Card,16,2022-12
+2022-12-17,Home & Living,1217,2,Credit Card,1,2022-12
+2022-12-17,Fashion,1134,4,Credit Card,4,2022-12
+2022-12-17,Electronics,1408,6,Credit Card,6,2022-12
+2022-12-17,Education,1773,3,Jazzwallet,3,2022-12
+2022-12-18,Mobile & Tablet,2398,11,E-Wallet,9,2022-12
+2022-12-18,Home & Living,286,0,Credit Card,1,2022-12
+2022-12-18,Fashion,1269,5,COD,5,2022-12
+2022-12-18,Electronics,1207,4,E-Wallet,4,2022-12
+2022-12-18,Education,846,3,Credit Card,3,2022-12
+2022-12-19,Mobile & Tablet,1659,13,COD,11,2022-12
+2022-12-19,Home & Living,1441,4,Credit Card,5,2022-12
+2022-12-19,Fashion,893,4,Credit Card,3,2022-12
+2022-12-19,Electronics,1202,2,Credit Card,1,2022-12
+2022-12-19,Education,1411,5,Jazzwallet,3,2022-12
+2022-12-20,Mobile & Tablet,1595,3,Credit Card,2,2022-12
+2022-12-20,Home & Living,994,3,Credit Card,2,2022-12
+2022-12-20,Fashion,775,2,E-Wallet,1,2022-12
+2022-12-20,Electronics,1547,3,Jazzwallet,3,2022-12
+2022-12-20,Education,1192,3,Credit Card,2,2022-12
+2022-12-21,Mobile & Tablet,1211,2,Credit Card,2,2022-12
+2022-12-21,Home & Living,1485,13,Credit Card,12,2022-12
+2022-12-21,Fashion,948,3,COD,3,2022-12
+2022-12-21,Electronics,856,3,COD,2,2022-12
+2022-12-21,Education,1315,3,Credit Card,3,2022-12
+2022-12-22,Mobile & Tablet,1155,11,COD,12,2022-12
+2022-12-22,Home & Living,692,1,Credit Card,1,2022-12
+2022-12-22,Fashion,1590,8,E-Wallet,7,2022-12
+2022-12-22,Electronics,1592,4,COD,3,2022-12
+2022-12-22,Education,930,3,E-Wallet,3,2022-12
+2022-12-23,Mobile & Tablet,2051,8,Jazzwallet,6,2022-12
+2022-12-23,Home & Living,988,2,E-Wallet,2,2022-12
+2022-12-23,Fashion,1314,3,Jazzwallet,3,2022-12
+2022-12-23,Electronics,1127,9,COD,8,2022-12
+2022-12-23,Education,883,5,Credit Card,4,2022-12
+2022-12-24,Mobile & Tablet,1124,2,COD,1,2022-12
+2022-12-24,Home & Living,1706,5,Jazzwallet,3,2022-12
+2022-12-24,Fashion,764,4,Jazzwallet,3,2022-12
+2022-12-24,Electronics,410,1,Credit Card,1,2022-12
+2022-12-24,Education,1775,9,Jazzwallet,7,2022-12
+2022-12-25,Mobile & Tablet,2441,16,Credit Card,15,2022-12
+2022-12-25,Home & Living,1222,5,Credit Card,4,2022-12
+2022-12-25,Fashion,1118,3,E-Wallet,2,2022-12
+2022-12-25,Electronics,1148,2,E-Wallet,1,2022-12
+2022-12-25,Education,1048,2,Credit Card,1,2022-12
+2022-12-26,Mobile & Tablet,2066,11,Credit Card,10,2022-12
+2022-12-26,Home & Living,931,4,Jazzwallet,3,2022-12
+2022-12-26,Fashion,961,4,COD,2,2022-12
+2022-12-26,Electronics,1470,5,E-Wallet,5,2022-12
+2022-12-26,Education,894,2,Credit Card,1,2022-12
+2022-12-27,Mobile & Tablet,1982,5,COD,4,2022-12
+2022-12-27,Home & Living,1242,5,COD,4,2022-12
+2022-12-27,Fashion,1050,2,Credit Card,1,2022-12
+2022-12-27,Electronics,1431,3,E-Wallet,2,2022-12
+2022-12-27,Education,1177,2,E-Wallet,1,2022-12
+2022-12-28,Mobile & Tablet,1129,4,Credit Card,3,2022-12
+2022-12-28,Home & Living,1275,11,Credit Card,10,2022-12
+2022-12-28,Fashion,1105,2,E-Wallet,2,2022-12
+2022-12-28,Electronics,1591,6,Credit Card,5,2022-12
+2022-12-28,Education,1448,8,Credit Card,6,2022-12
+2022-12-29,Mobile & Tablet,1713,14,COD,10,2022-12
+2022-12-29,Home & Living,795,1,E-Wallet,1,2022-12
+2022-12-29,Fashion,1137,3,COD,2,2022-12
+2022-12-29,Electronics,1209,4,COD,2,2022-12
+2022-12-29,Education,1627,14,Jazzwallet,18,2022-12
+2022-12-30,Mobile & Tablet,2924,17,E-Wallet,18,2022-12
+2022-12-30,Home & Living,1077,2,Credit Card,2,2022-12
+2022-12-30,Fashion,881,2,Credit Card,2,2022-12
+2022-12-30,Electronics,1147,5,Credit Card,6,2022-12
+2022-12-30,Education,489,1,COD,1,2022-12
+2022-12-31,Mobile & Tablet,2188,7,Credit Card,8,2022-12
+2022-12-31,Home & Living,962,2,Credit Card,1,2022-12
+2022-12-31,Fashion,963,4,Jazzwallet,4,2022-12
+2022-12-31,Electronics,1323,4,Credit Card,2,2022-12
+2022-12-31,Education,862,1,COD,1,2022-12
